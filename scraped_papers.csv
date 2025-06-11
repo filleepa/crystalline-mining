@@ -1,0 +1,1927 @@
+arxiv id,title,published,author(s),abs link,pdf link,journal ref,comment,abstract
+1606.07779v1,Natural calcium carbonate for biomedical applications,2016-06-23T13:01:43Z,Sonali S. Sali,http://arxiv.org/abs/1606.07779v1,http://arxiv.org/pdf/1606.07779v1,No journal ref found,M.Tech (Biotechnology) Dissertation Thesis project,"Sea shells are found to be a very rich natural resource for calcium
+carbonate. Sea shells are made up of CaCO3 mainly in the aragonite form, which
+are columnar or fibrous or microsphere structured crystals. The bioactivity of
+nanoparticles of sea shell has been studied in this work. The sea shells
+collected were thoroughly washed, dried and pulverized. The powder was sieved
+and particles in the range of 45 to 63 microns were collected. The powdered sea
+shells were characterized using X-Ray Diffraction and Field Emission Scanning
+Electron Microscopy. The XRD data showed that the particles were mainly
+microspheres. Traces of calcite and vaterite were also present. Experiments
+were conducted to study the aspirin and strontium ranelate drug loading into
+the sea shell powder using soak and dry method. Different concentrations of
+drug solution was made in ethanol and water. The shell powder was soaked in
+drug solutions and was kept soaking for 48 hrs with intermittent
+ultrasonication. The mixture was gently dried in a vacuum oven. The in vitro
+drug release studies were done using Phosphate Buffered Saline. The FESEM
+images displayed a distribution of differently sized and shaped particles. The
+sea shells due to its natural porosity and crystallinity are expected to be
+useful for drug delivery. About 50% drug entrapment efficiency for aspirin and
+39% for strontium ranelate was seen. A burst release of the drug (80 percent)
+was observed within two hours for both the drugs studied. Rest of the drug was
+released slowly in 19 hrs. Further modification of the sea shell with non toxic
+polymers is also planned as a part of this work. Sea shell powder has become a
+potential candidate for drug delivery due to all the aforementioned advantages."
+2208.06361v1,Hyperbolic Molecular Representation Learning for Drug Repositioning,2022-07-06T20:20:29Z,"Ke Yu, Shyam Visweswaran, Kayhan Batmanghelich",http://arxiv.org/abs/2208.06361v1,http://arxiv.org/pdf/2208.06361v1,No journal ref found,"Accepted by NeurIPS workshop 2020. arXiv admin note: substantial text
+  overlap with arXiv:2006.00986","Learning accurate drug representations is essential for task such as
+computational drug repositioning. A drug hierarchy is a valuable source that
+encodes knowledge of relations among drugs in a tree-like structure where drugs
+that act on the same organs, treat the same disease, or bind to the same
+biological target are grouped together. However, its utility in learning drug
+representations has not yet been explored, and currently described drug
+representations cannot place novel molecules in a drug hierarchy. Here, we
+develop a semi-supervised drug embedding that incorporates two sources of
+information: (1) underlying chemical grammar that is inferred from chemical
+structures of drugs and drug-like molecules (unsupervised), and (2)
+hierarchical relations that are encoded in an expert-crafted hierarchy of
+approved drugs (supervised). We use the Variational Auto-Encoder (VAE)
+framework to encode the chemical structures of molecules and use the drug-drug
+similarity information obtained from the hierarchy to induce the clustering of
+drugs in hyperbolic space. The hyperbolic space is amenable for encoding
+hierarchical relations. Our qualitative results support that the learned drug
+embedding can induce the hierarchical relations among drugs. We demonstrate
+that the learned drug embedding can be used for drug repositioning."
+2409.11712v1,"Revolutionizing Pharmaceutical Manufacturing: Advances and Challenges of
+  3D Printing System and Control",2024-09-18T05:35:58Z,"Rahul Kumar, Vikram Singh, Priya Gupta",http://arxiv.org/abs/2409.11712v1,http://arxiv.org/pdf/2409.11712v1,No journal ref found,submitted to IMECE 2024,"The advent of 3D printing has transformed the pharmaceutical industry,
+enabling precision drug manufacturing with controlled release profiles, dosing,
+and structural complexity. Additive manufacturing (AM) addresses the growing
+demand for personalized medicine, overcoming limitations of traditional
+methods. This technology facilitates tailored dosage forms, complex geometries,
+and real-time quality control. Recent advancements in drop-on-demand printing,
+UV curable inks, material science, and regulatory frameworks are discussed.
+Despite opportunities for cost reduction, flexibility, and decentralized
+manufacturing, challenges persist in scalability, reproducibility, and
+regulatory adaptation. This review provides an in-depth analysis of the current
+state of AM in pharmaceutical manufacturing, exploring recent developments,
+challenges, and future directions for mainstream integration."
+2006.00986v1,Semi-Supervised Hierarchical Drug Embedding in Hyperbolic Space,2020-06-01T14:46:31Z,"Ke Yu, Shyam Visweswaran, Kayhan Batmanghelich",http://arxiv.org/abs/2006.00986v1,http://arxiv.org/pdf/2006.00986v1,No journal ref found,No comment found,"Learning accurate drug representation is essential for tasks such as
+computational drug repositioning and prediction of drug side-effects. A drug
+hierarchy is a valuable source that encodes human knowledge of drug relations
+in a tree-like structure where drugs that act on the same organs, treat the
+same disease, or bind to the same biological target are grouped together.
+However, its utility in learning drug representations has not yet been
+explored, and currently described drug representations cannot place novel
+molecules in a drug hierarchy. Here, we develop a semi-supervised drug
+embedding that incorporates two sources of information: (1) underlying chemical
+grammar that is inferred from molecular structures of drugs and drug-like
+molecules (unsupervised), and (2) hierarchical relations that are encoded in an
+expert-crafted hierarchy of approved drugs (supervised). We use the Variational
+Auto-Encoder (VAE) framework to encode the chemical structures of molecules and
+use the knowledge-based drug-drug similarity to induce the clustering of drugs
+in hyperbolic space. The hyperbolic space is amenable for encoding hierarchical
+concepts. Both quantitative and qualitative results support that the learned
+drug embedding can accurately reproduce the chemical structure and induce the
+hierarchical relations among drugs. Furthermore, our approach can infer the
+pharmacological properties of novel molecules by retrieving similar drugs from
+the embedding space. We demonstrate that the learned drug embedding can be used
+to find new uses for existing drugs and to discover side-effects. We show that
+it significantly outperforms baselines in both tasks."
+1801.07691v2,Drug Selection via Joint Push and Learning to Rank,2018-01-23T18:26:54Z,"Yicheng He, Junfeng Liu, Xia Ning",http://arxiv.org/abs/1801.07691v2,http://arxiv.org/pdf/1801.07691v2,"IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  ( Volume: 17, Issue: 1, 01 Jan.-Feb. 2020)",No comment found,"Selecting the right drugs for the right patients is a primary goal of
+precision medicine. In this manuscript, we consider the problem of cancer drug
+selection in a learning-to-rank framework. We have formulated the cancer drug
+selection problem as to accurately predicting 1). the ranking positions of
+sensitive drugs and 2). the ranking orders among sensitive drugs in cancer cell
+lines based on their responses to cancer drugs. We have developed a new
+learning-to-rank method, denoted as pLETORg , that predicts drug ranking
+structures in each cell line via using drug latent vectors and cell line latent
+vectors. The pLETORg method learns such latent vectors through explicitly
+enforcing that, in the drug ranking list of each cell line, the sensitive drugs
+are pushed above insensitive drugs, and meanwhile the ranking orders among
+sensitive drugs are correct. Genomics information on cell lines is leveraged in
+learning the latent vectors. Our experimental results on a benchmark cell
+line-drug response dataset demonstrate that the new pLETORg significantly
+outperforms the state-of-the-art method in prioritizing new sensitive drugs."
+2007.07886v2,"Clinical connectivity map for drug repurposing: using laboratory tests
+  to bridge drugs and diseases",2020-07-14T21:08:43Z,"Qianlong Wen, Ruoqi Liu, Ping Zhang",http://arxiv.org/abs/2007.07886v2,http://arxiv.org/pdf/2007.07886v2,No journal ref found,No comment found,"Drug repurposing has attracted increasing attention from both the
+pharmaceutical industry and the research community. Many existing computational
+drug repurposing methods rely on preclinical data (e.g., chemical structures,
+drug targets), resulting in translational problems for clinical trials. In this
+study, we propose a clinical connectivity map framework for drug repurposing by
+leveraging laboratory tests to analyze complementarity between drugs and
+diseases. We establish clinical drug effect vectors (i.e., drug-laboratory test
+associations) by applying a continuous self-controlled case series model on a
+longitudinal electronic health record data. We establish clinical disease sign
+vectors (i.e., disease-laboratory test associations) by applying a Wilcoxon
+rank sum test on a large-scale national survey data. Finally, we compute a
+repurposing possibility score for each drug-disease pair by applying a dot
+product-based scoring function on clinical disease sign vectors and clinical
+drug effect vectors. We comprehensively evaluate 392 drugs for 6 important
+chronic diseases (e.g., asthma, coronary heart disease, type 2 diabetes, etc.).
+We discover not only known associations between diseases and drugs but also
+many hidden drug-disease associations. Moreover, we are able to explain the
+predicted drug-disease associations via the corresponding complementarity
+between laboratory tests of drug effect vectors and disease sign vectors. The
+proposed clinical connectivity map framework uses laboratory tests from
+electronic clinical information to bridge drugs and diseases, which is
+explainable and has better translational power than existing computational
+methods. Experimental results demonstrate the effectiveness of the proposed
+framework and suggest that our method could help identify drug repurposing
+opportunities, which will benefit patients by offering more effective and safer
+treatments."
+1912.03702v1,"Graph-augmented Convolutional Networks on Drug-Drug Interactions
+  Prediction",2019-12-08T15:43:42Z,"Yi Zhong, Xueyu Chen, Yu Zhao, Xiaoming Chen, Tingfang Gao, Zuquan Weng",http://arxiv.org/abs/1912.03702v1,http://arxiv.org/pdf/1912.03702v1,No journal ref found,No comment found,"We propose an end-to-end model to predict drug-drug interactions (DDIs) by
+employing graph-augmented convolutional networks. And this is implemented by
+combining graph CNN with an attentive pooling network to extract structural
+relations between drug pairs and make DDI predictions. The experiment results
+suggest a desirable performance achieving ROC at 0.988, F1-score at 0.956, and
+AUPR at 0.986. Besides, the model can tell how the two DDI drugs interact
+structurally by varying colored atoms. And this may be helpful for drug design
+during drug discovery."
+2404.03516v1,"Drug-target interaction prediction by integrating heterogeneous
+  information with mutual attention network",2024-04-03T02:48:22Z,"Yuanyuan Zhang, Yingdong Wang, Chaoyong Wu, Lingmin Zhana, Aoyi Wang, Caiping Cheng, Jinzhong Zhao, Wuxia Zhang, Jianxin Chen, Peng Li",http://arxiv.org/abs/2404.03516v1,http://arxiv.org/pdf/2404.03516v1,No journal ref found,No comment found,"Identification of drug-target interactions is an indispensable part of drug
+discovery. While conventional shallow machine learning and recent deep learning
+methods based on chemogenomic properties of drugs and target proteins have
+pushed this prediction performance improvement to a new level, these methods
+are still difficult to adapt to novel structures. Alternatively, large-scale
+biological and pharmacological data provide new ways to accelerate drug-target
+interaction prediction. Here, we propose DrugMAN, a deep learning model for
+predicting drug-target interaction by integrating multiplex heterogeneous
+functional networks with a mutual attention network (MAN). DrugMAN uses a graph
+attention network-based integration algorithm to learn network-specific
+low-dimensional features for drugs and target proteins by integrating four drug
+networks and seven gene/protein networks, respectively. DrugMAN then captures
+interaction information between drug and target representations by a mutual
+attention network to improve drug-target prediction. DrugMAN achieves the best
+prediction performance under four different scenarios, especially in real-world
+scenarios. DrugMAN spotlights heterogeneous information to mine drug-target
+interactions and can be a powerful tool for drug discovery and drug
+repurposing."
+2205.11285v1,"High performing additively manufactured bone scaffolds based on copper
+  substituted diopside",2022-05-23T13:10:34Z,"Shumin Pang, Dongwei Wu, Franz Kamutzki, Jens Kurreck, Aleksander Gurlo, Dorian A. H. Hanaor",http://arxiv.org/abs/2205.11285v1,http://arxiv.org/pdf/2205.11285v1,"Materials & Design Materials & Design (2022) Volume 215, 110480",No comment found,"The inclusion of small amounts of copper is often reported to enhance the
+mechanical and biointegrative performance of bioceramics towards tissue
+engineering applications. In this work, 3D scaffolds were additively
+manufactured by robocasting of precipitation derived copper doped diopside.
+Compositions were chosen in which magnesium sites in diopside were substituted
+by copper up to 3 at.%. Microstructure, mechanical performance, bioactivity,
+biodegradability, drug release, biocompatibility, in vitro angiogenesis and
+antibacterial activity were studied. Results indicate that copper is
+incorporated in the diopside structure and improves materials fracture
+toughness. Scaffolds with more than 80% porosity exhibited compressive
+strengths exceeding that of cancellous bone. All compositions showed
+bioactivity and drug release functionalities. However, only samples with 0 to 1
+at.% copper substitution showed favorable proliferation of osteogenic sarcoma
+cells, human umbilical vein endothelial cells and fibroblasts, while larger
+amounts of copper had cytotoxic behavior. In vitro angiogenesis was
+significantly enhanced by low levels of copper. Copper containing materials
+showed anti Escherichia coli activity, increasing with copper content. We show
+that across multiple indicators, copper substituted diopside of the composition
+CaMg0.99Cu0.01Si2O6, exhibits high performance as a synthetic bone substitute,
+comparing favorably with known bioceramics. These findings present a pathway
+for the enhancement of bioactivity and mechanical performance in printable
+bioceramics."
+2210.00802v3,DDoS: A Graph Neural Network based Drug Synergy Prediction Algorithm,2022-10-03T10:16:29Z,"Kyriakos Schwarz, Alicia Pliego-Mendieta, Amina Mollaysa, Lara Planas-Paz, Chantal Pauli, Ahmed Allam, Michael Krauthammer",http://arxiv.org/abs/2210.00802v3,http://arxiv.org/pdf/2210.00802v3,No journal ref found,No comment found,"Drug synergy arises when the combined impact of two drugs exceeds the sum of
+their individual effects. While single-drug effects on cell lines are
+well-documented, the scarcity of data on drug synergy, considering the vast
+array of potential drug combinations, prompts a growing interest in
+computational approaches for predicting synergies in untested drug pairs. We
+introduce a Graph Neural Network (\textit{GNN}) based model for drug synergy
+prediction, which utilizes drug chemical structures and cell line gene
+expression data. We extract data from the largest available drug combination
+database (DrugComb) and generate multiple synergy scores (commonly used in the
+literature) to create seven datasets that serve as a reliable benchmark with
+high confidence. In contrast to conventional models relying on pre-computed
+chemical features, our GNN-based approach learns task-specific drug
+representations directly from the graph structure of the drugs, providing
+superior performance in predicting drug synergies. Our work suggests that
+learning task-specific drug representations and leveraging a diverse dataset is
+a promising approach to advancing our understanding of drug-drug interaction
+and synergy."
+1711.04402v1,Diamondoid Molecules,2017-11-13T03:04:39Z,G. Ali Mansoori,http://arxiv.org/abs/1711.04402v1,http://arxiv.org/pdf/1711.04402v1,"Advances in Chemical Physics Vol. 136, pp. 207-258, 2007","78 pages, 36 figures","In this review paper we introduce at first the cage nature of diamondoid
+molecules, the variety of their crystalline lattice structures, the nature of
+their structural isomers, their stereoisomers, and their other molecular
+specificities. The natural occurrence of diamondoids in petroleum fluids and
+how they come to be present in such fluids is introduced. Field experiences of
+phase transitions and depositions as well as techniques for separation,
+detection and measurement of diamondoids from petroleum fluids is presented and
+discussed. It is demonstrated that due to their six or more linking groups
+diamondoids have found major applications as templates and as molecular
+building blocks in polymers synthesis, nanotechnology, drug delivery, drug
+targeting, DNA directed assembly, DNA-amino acid nanostructure formation and in
+host-guest chemistry."
+1805.05593v1,"Enhancing Drug-Drug Interaction Extraction from Texts by Molecular
+  Structure Information",2018-05-15T07:03:21Z,"Masaki Asada, Makoto Miwa, Yutaka Sasaki",http://arxiv.org/abs/1805.05593v1,http://arxiv.org/pdf/1805.05593v1,No journal ref found,accepted as a short paper at ACL2018,"We propose a novel neural method to extract drug-drug interactions (DDIs)
+from texts using external drug molecular structure information. We encode
+textual drug pairs with convolutional neural networks and their molecular pairs
+with graph convolutional networks (GCNs), and then we concatenate the outputs
+of these two networks. In the experiments, we show that GCNs can predict DDIs
+from the molecular structures of drugs in high accuracy and the molecular
+information can enhance text-based DDI extraction by 2.39 percent points in the
+F-score on the DDIExtraction 2013 shared task data set."
+2012.11599v1,"BERTChem-DDI : Improved Drug-Drug Interaction Prediction from text using
+  Chemical Structure Information",2020-12-21T07:13:52Z,Ishani Mondal,http://arxiv.org/abs/2012.11599v1,http://arxiv.org/pdf/2012.11599v1,No journal ref found,arXiv admin note: substantial text overlap with arXiv:2012.11142,"Traditional biomedical version of embeddings obtained from pre-trained
+language models have recently shown state-of-the-art results for relation
+extraction (RE) tasks in the medical domain. In this paper, we explore how to
+incorporate domain knowledge, available in the form of molecular structure of
+drugs, for predicting Drug-Drug Interaction from textual corpus. We propose a
+method, BERTChem-DDI, to efficiently combine drug embeddings obtained from the
+rich chemical structure of drugs along with off-the-shelf domain-specific
+BioBERT embedding-based RE architecture. Experiments conducted on the
+DDIExtraction 2013 corpus clearly indicate that this strategy improves other
+strong baselines architectures by 3.4\% macro F1-score."
+2308.13891v1,Drug Interaction Vectors Neural Network: DrIVeNN,2023-08-26T14:24:41Z,"Natalie Wang, Casey Overby Taylor",http://arxiv.org/abs/2308.13891v1,http://arxiv.org/pdf/2308.13891v1,No journal ref found,"8 pages, 3 figures","Polypharmacy, the concurrent use of multiple drugs to treat a single
+condition, is common in patients managing multiple or complex conditions.
+However, as more drugs are added to the treatment plan, the risk of adverse
+drug events (ADEs) rises rapidly. Many serious ADEs associated with
+polypharmacy only become known after the drugs are in use. It is impractical to
+test every possible drug combination during clinical trials. This issue is
+particularly prevalent among older adults with cardiovascular disease (CVD)
+where polypharmacy and ADEs are commonly observed. In this research, our
+primary objective was to identify key drug features to build and evaluate a
+model for modeling polypharmacy ADEs. Our secondary objective was to assess our
+model on a domain-specific case study. We developed a two-layer neural network
+that incorporated drug features such as molecular structure, drug-protein
+interactions, and mono drug side effects (DrIVeNN). We assessed DrIVeNN using
+publicly available side effect databases and determined Principal Component
+Analysis (PCA) with a variance threshold of 0.95 as the most effective feature
+selection method. DrIVeNN performed moderately better than state-of-the-art
+models like RESCAL, DEDICOM, DeepWalk, Decagon, DeepDDI, KGDDI, and KGNN in
+terms of AUROC for the drug-drug interaction prediction task. We also conducted
+a domain-specific case study centered on the treatment of cardiovascular
+disease (CVD). When the best performing model architecture was applied to the
+CVD treatment cohort, there was a significant increase in performance from the
+general model. We observed an average AUROC for CVD drug pair prediction
+increasing from 0.826 (general model) to 0.975 (CVD specific model). Our
+findings indicate the strong potential of domain-specific models for improving
+the accuracy of drug-drug interaction predictions."
+2006.14002v1,Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction,2020-06-11T04:49:26Z,"Yunsheng Bai, Ken Gu, Yizhou Sun, Wei Wang",http://arxiv.org/abs/2006.14002v1,http://arxiv.org/pdf/2006.14002v1,No journal ref found,No comment found,"We introduce Bi-GNN for modeling biological link prediction tasks such as
+drug-drug interaction (DDI) and protein-protein interaction (PPI). Taking
+drug-drug interaction as an example, existing methods using machine learning
+either only utilize the link structure between drugs without using the graph
+representation of each drug molecule, or only leverage the individual drug
+compound structures without using graph structure for the higher-level DDI
+graph. The key idea of our method is to fundamentally view the data as a
+bi-level graph, where the highest level graph represents the interaction
+between biological entities (interaction graph), and each biological entity
+itself is further expanded to its intrinsic graph representation
+(representation graphs), where the graph is either flat like a drug compound or
+hierarchical like a protein with amino acid level graph, secondary structure,
+tertiary structure, etc. Our model not only allows the usage of information
+from both the high-level interaction graph and the low-level representation
+graphs, but also offers a baseline for future research opportunities to address
+the bi-level nature of the data."
+1511.04431v1,Optical Properties of Drug Metabolites in Latent Fingermarks,2015-10-08T09:05:44Z,"Yao Shen, Qing Ai",http://arxiv.org/abs/1511.04431v1,http://arxiv.org/pdf/1511.04431v1,"Scientific Reports 6, 20336 (2016)","11 pages, 5 figures","Drug metabolites usually have structures of split-ring resonators (SRRs),
+which might lead to negative permittivity and permeability in electromagnetic
+field. As a result, in the UV-vis region, the latent fingermarks images of drug
+addicts and non drug users are inverse. The optical properties of latent
+fingermarks are quite different between drug addicts and non-drug users. This
+is a technic superiority for crime scene investigation to distinguish them. In
+this paper, we calculate the permittivity and permeability of drug metabolites
+using tight-binding model. The latent fingermarks of smokers and non-smokers
+are given as an example."
+1904.00313v1,"Modeling Drug-Disease Relations with Linguistic and Knowledge Graph
+  Constraints",2019-03-31T00:48:42Z,"Bruno Godefroy, Christopher Potts",http://arxiv.org/abs/1904.00313v1,http://arxiv.org/pdf/1904.00313v1,No journal ref found,No comment found,"FDA drug labels are rich sources of information about drugs and drug-disease
+relations, but their complexity makes them challenging texts to analyze in
+isolation. To overcome this, we situate these labels in two health knowledge
+graphs: one built from precise structured information about drugs and diseases,
+and another built entirely from a database of clinical narrative texts using
+simple heuristic methods. We show that Probabilistic Soft Logic models defined
+over these graphs are superior to text-only and relation-only variants, and
+that the clinical narratives graph delivers exceptional results with little
+manual effort. Finally, we release a new dataset of drug labels with
+annotations for five distinct drug-disease relations."
+2405.14545v1,A Cross-Field Fusion Strategy for Drug-Target Interaction Prediction,2024-05-23T13:25:20Z,"Hongzhi Zhang, Xiuwen Gong, Shirui Pan, Jia Wu, Bo Du, Wenbin Hu",http://arxiv.org/abs/2405.14545v1,http://arxiv.org/pdf/2405.14545v1,No journal ref found,No comment found,"Drug-target interaction (DTI) prediction is a critical component of the drug
+discovery process. In the drug development engineering field, predicting novel
+drug-target interactions is extremely crucial.However, although existing
+methods have achieved high accuracy levels in predicting known drugs and drug
+targets, they fail to utilize global protein information during DTI prediction.
+This leads to an inability to effectively predict interaction the interactions
+between novel drugs and their targets. As a result, the cross-field information
+fusion strategy is employed to acquire local and global protein information.
+Thus, we propose the siamese drug-target interaction SiamDTI prediction method,
+which utilizes a double channel network structure for cross-field supervised
+learning.Experimental results on three benchmark datasets demonstrate that
+SiamDTI achieves higher accuracy levels than other state-of-the-art (SOTA)
+methods on novel drugs and targets.Additionally, SiamDTI's performance with
+known drugs and targets is comparable to that of SOTA approachs. The code is
+available at https://anonymous.4open.science/r/DDDTI-434D."
+2506.01478v1,"MUDI: A Multimodal Biomedical Dataset for Understanding Pharmacodynamic
+  Drug-Drug Interactions",2025-06-02T09:36:08Z,"Tung-Lam Ngo, Ba-Hoang Tran, Duy-Cat Can, Trung-Hieu Do, Oliver Y. Chén, Hoang-Quynh Le",http://arxiv.org/abs/2506.01478v1,http://arxiv.org/pdf/2506.01478v1,No journal ref found,No comment found,"Understanding the interaction between different drugs (drug-drug interaction
+or DDI) is critical for ensuring patient safety and optimizing therapeutic
+outcomes. Existing DDI datasets primarily focus on textual information,
+overlooking multimodal data that reflect complex drug mechanisms. In this
+paper, we (1) introduce MUDI, a large-scale Multimodal biomedical dataset for
+Understanding pharmacodynamic Drug-drug Interactions, and (2) benchmark
+learning methods to study it. In brief, MUDI provides a comprehensive
+multimodal representation of drugs by combining pharmacological text, chemical
+formulas, molecular structure graphs, and images across 310,532 annotated drug
+pairs labeled as Synergism, Antagonism, or New Effect. Crucially, to
+effectively evaluate machine-learning based generalization, MUDI consists of
+unseen drug pairs in the test set. We evaluate benchmark models using both late
+fusion voting and intermediate fusion strategies. All data, annotations,
+evaluation scripts, and baselines are released under an open research license."
+2110.11523v1,"NMR crystallography reveals carbonate induced Al-ordering in ZnAl
+  layered double hydroxide",2021-10-21T23:39:56Z,"Sambhu Radhakrishnan, Karl Lauwers, C. Vinod Chandran, Julien Trebosc, Johan A. Martens, Francis Taulelle, Christine E. A. Kirschhock, Eric Breynaert",http://arxiv.org/abs/2110.11523v1,http://arxiv.org/pdf/2110.11523v1,No journal ref found,No comment found,"Layered double hydroxides (LDHs) serve a score of applications in catalysis,
+drug delivery, and environmental remediation. Smarter crystallography,
+combining X-ray diffraction and NMR spectroscopy revealed how interplay between
+carbonate and pH determines the LDH structure and Al ordering in ZnAl LDH.
+Carbonate intercalated ZnAl LDHs were synthesized at different pH (pH 8.5, pH
+10.0, pH 12.5) with a Zn/Al ratio of 2, without subsequent hydrothermal
+treatment to avoid extensive recrystallisation. In ideal configuration, all Al
+cations should be part of the LDH and be coordinated with 6 Zn atoms, but NMR
+revealed two different Al local environments were present in all samples in a
+ratio dependent on synthesis pH. NMR-crystallography, integrating NMR
+spectroscopy and X-ray diffraction, succeeded to identify them as Al residing
+in the highly ordered crystalline phase, next to Al in disordered material.
+With increasing synthesis pH, crystallinity increased, and the side phase
+fraction decreased. Using 1 H-13 C, 13 C-27 Al HETCOR NMR in combination with
+27 Al MQMAS, 27 Al-DQ-SQ measurements and Rietveld refinement on
+high-resolution PXRD data, the extreme anion exchange selectivity of these LDHs
+for CO3 2-over HCO3-was linked to strict Al and CO3 2-ordering in the
+crystalline LDH. Even upon equilibration of the LDH in pure NaHCO3 solutions,
+only CO3 2-was adsorbed by the LDH. This reveals the structure directing role
+of bivalent cations such as CO3 2-during crystallization of [M 2+ 4M 3+ 2(OH)2]
+2+ [A 2-]1.yH2O LDH phases."
+2005.10644v1,"A Minimal-Input Multilayer Perceptron for Predicting Drug-Drug
+  Interactions Without Knowledge of Drug Structure",2020-05-20T17:15:19Z,"Alun Stokes, William Hum, Jonathan Zaslavsky",http://arxiv.org/abs/2005.10644v1,http://arxiv.org/pdf/2005.10644v1,No journal ref found,No comment found,"The necessity of predictive models in the drug discovery industry cannot be
+understated. With the sheer volume of potentially useful compounds that are
+considered for use, it is becoming increasingly computationally difficult to
+investigate the overlapping interactions between drugs. Understanding this is
+also important to the layperson who needs to know what they can and cannot mix,
+especially for those who use recreational drugs - which do not have the same
+rigorous warnings as prescription drugs. Without access to deterministic,
+experimental results for every drug combination, other methods are necessary to
+bridge this knowledge gap. Ideally, such a method would require minimal inputs,
+have high accuracy, and be computationally feasible. We have not come across a
+model that meets all these criteria. To this end, we propose a minimal-input
+multi-layer perceptron that predicts the interactions between two drugs. This
+model has a great advantage of requiring no structural knowledge of the
+molecules in question, and instead only uses experimentally accessible chemical
+and physical properties - 20 per compound in total. Using a set of known
+drug-drug interactions, and associated properties of the drugs involved, we
+trained our model on a dataset of about 650,000 entries. We report an accuracy
+of 0.968 on unseen samples of interactions between drugs on which the model was
+trained, and an accuracy of 0.942 on unseen samples of interactions between
+unseen drugs. We believe this to be a promising and highly extensible model
+that has potential for high generalized predictive accuracy with further
+tuning."
+2307.01507v2,"Relation-aware graph structure embedding with co-contrastive learning
+  for drug-drug interaction prediction",2023-07-04T06:41:50Z,"Mengying Jiang, Guizhong Liu, Biao Zhao, Yuanchao Su, Weiqiang Jin",http://arxiv.org/abs/2307.01507v2,http://arxiv.org/pdf/2307.01507v2,No journal ref found,"14pages, 23figures","Relation-aware graph structure embedding is promising for predicting
+multi-relational drug-drug interactions (DDIs). Typically, most existing
+methods begin by constructing a multi-relational DDI graph and then learning
+relation-aware graph structure embeddings (RaGSEs) of drugs from the DDI graph.
+Nevertheless, most existing approaches are usually limited in learning RaGSEs
+of new drugs, leading to serious over-fitting when the test DDIs involve such
+drugs. To alleviate this issue, we propose a novel DDI prediction method based
+on relation-aware graph structure embedding with co-contrastive learning,
+RaGSECo. The proposed RaGSECo constructs two heterogeneous drug graphs: a
+multi-relational DDI graph and a multi-attribute drug-drug similarity (DDS)
+graph. The two graphs are used respectively for learning and propagating the
+RaGSEs of drugs, aiming to ensure all drugs, including new ones, can possess
+effective RaGSEs. Additionally, we present a novel co-contrastive learning
+module to learn drug-pairs (DPs) representations. This mechanism learns DP
+representations from two distinct views (interaction and similarity views) and
+encourages these views to supervise each other collaboratively to obtain more
+discriminative DP representations. We evaluate the effectiveness of our RaGSECo
+on three different tasks using two real datasets. The experimental results
+demonstrate that RaGSECo outperforms existing state-of-the-art prediction
+methods."
+2107.06773v2,"Relational graph convolutional networks for predicting blood-brain
+  barrier penetration of drug molecules",2021-07-04T15:56:02Z,"Yan Ding, Xiaoqian Jiang, Yejin Kim",http://arxiv.org/abs/2107.06773v2,http://arxiv.org/pdf/2107.06773v2,No journal ref found,No comment found,"Evaluating the blood-brain barrier (BBB) permeability of drug molecules is a
+critical step in brain drug development. Traditional methods for the evaluation
+require complicated in vitro or in vivo testing. Alternatively, in silico
+predictions based on machine learning have proved to be a cost-efficient way to
+complement the in vitro and in vivo methods. However, the performance of the
+established models has been limited by their incapability of dealing with the
+interactions between drugs and proteins, which play an important role in the
+mechanism behind the BBB penetrating behaviors. To address this limitation, we
+employed the relational graph convolutional network (RGCN) to handle the
+drug-protein interactions as well as the properties of each individual drug.
+The RGCN model achieved an overall accuracy of 0.872, an AUROC of 0.919 and an
+AUPRC of 0.838 for the testing dataset with the drug-protein interactions and
+the Mordred descriptors as the input. Introducing drug-drug similarity to
+connect structurally similar drugs in the data graph further improved the
+testing results, giving an overall accuracy of 0.876, an AUROC of 0.926 and an
+AUPRC of 0.865. In particular, the RGCN model was found to greatly outperform
+the LightGBM base model when evaluated with the drugs whose BBB penetration was
+dependent on drug-protein interactions. Our model is expected to provide
+high-confidence predictions of BBB permeability for drug prioritization in the
+experimental screening of BBB-penetrating drugs."
+1905.06237v1,Implementation of functions in R tool in parallel environment,2019-05-08T11:12:37Z,Antonios Makris,http://arxiv.org/abs/1905.06237v1,http://arxiv.org/pdf/1905.06237v1,No journal ref found,No comment found,"Drug promiscuity and polypharmacology are much discussed topics in
+pharmaceutical research. Drug repositioning applies established drugs to new
+disease indications with increasing success. As polypharmacology, defined a
+drug's ability to bind to several targets but due to possible side effects,
+this feature is not taken into consideration. Thus, the pharmaceutical industry
+focused on the development of highly selective single-target drugs. Nowadays
+after lot of researches, it is clear that polypharmacology is important for the
+efficacy of drugs. There are side effects but on the other hand, this gives the
+opportunity to uncover new uses for already known drugs and especially for
+complex diseases. Thus, it is clear that there are two sides of the same coin.
+There are several approaches to discover new drugs targets, as analysis of
+genome wide association, gene expression data and networks, structural
+approaches with alignment methods etc. Computational drug discovery and design
+has experienced a rapid increase in development which is mainly due to the
+increasing cost for discovering new compounds. Since drug development is a very
+costly venture, the pharmaceutical industry puts effort in the repositioning of
+withdrawn or already approved drugs. The costs for bringing such a drug to
+market are 60% lower than the development of a novel drug, which costs roughly
+one billion US dollars. Thus, target prediction, drug repositioning approaches,
+protein-ligand docking and scoring algorithms, virtual screening and other
+computational techniques have gained the interest of researchers and
+pharmaceutical companies."
+1911.06356v2,"Beyond Textual Data: Predicting Drug-Drug Interactions from Molecular
+  Structure Images using Siamese Neural Networks",2019-11-14T19:51:14Z,"Devendra Singh Dhami, Siwen Yan, Gautam Kunapuli, David Page, Sriraam Natarajan",http://arxiv.org/abs/1911.06356v2,http://arxiv.org/pdf/1911.06356v2,No journal ref found,"9 pages, 9 figures","Predicting and discovering drug-drug interactions (DDIs) is an important
+problem and has been studied extensively both from medical and machine learning
+point of view. Almost all of the machine learning approaches have focused on
+text data or textual representation of the structural data of drugs. We present
+the first work that uses drug structure images as the input and utilizes a
+Siamese convolutional network architecture to predict DDIs."
+1908.10563v1,"Optical detection of structural properties of tumor tissues generated by
+  xenografting of drug-sensitive and drug-resistant cancer cells using partial
+  wave spectroscopy (PWS)",2019-08-28T06:15:56Z,"Prakash Adhikari, Prashanth K. B. Nagesh, Fatimah Alherthi, Subhash C. Chauhan, Meena Jaggi, Murali M. Yallapu, Prabhakar Pradhan",http://arxiv.org/abs/1908.10563v1,http://arxiv.org/pdf/1908.10563v1,"Optics Express 10 (12), 6422-6431 (2019)","5 figures, 13 pages","The quantitative measurement of structural alterations at the nanoscale level
+is important for understanding the physical state of biological samples.
+Studies have shown that the progression of cancer is associated with the
+rearrangements of building blocks of cells/tissues such as DNA, RNA, lipids,
+etc. Partial wave spectroscopy is a recently developed mesoscopic physics-based
+spectroscopic imaging technique which can detect such nanoscale changes in
+cells/tissues. At present, chemotherapy drug treatment is the only effective
+form of treatment; however, the development of drug-resistant cancer cells is a
+major challenge for this treatment. Earlier PWS analyses of prostate cancer
+cells, a 2D structure, have shown that drug-resistant cancer cells have a
+higher degree of structural disorder compared to drug-sensitive cancer cells.
+At the same time, structural properties of the metastasize tumor grown to 3D
+structure from drug-resistant and drug-sensitive cancer cells within the body
+is not well studied. In this paper, the structural properties of tissues from
+grown 3D tumors, generated from docetaxel drug-sensitive and drug-resistant
+prostate cancer cells xenografted into a mouse model, are studied. The results
+show that xenografted tumor tissues from drug-resistant cells have higher
+disorder strength than the tumor generated from drug-sensitive prostate cancer
+cells. Potential applications of the technique to assess chemotherapy
+effectiveness in cancer treatment are discussed."
+2411.01422v1,"GramSeq-DTA: A grammar-based drug-target affinity prediction approach
+  fusing gene expression information",2024-11-03T03:17:09Z,"Kusal Debnath, Pratip Rana, Preetam Ghosh",http://arxiv.org/abs/2411.01422v1,http://arxiv.org/pdf/2411.01422v1,No journal ref found,No comment found,"Drug-target affinity (DTA) prediction is a critical aspect of drug discovery.
+The meaningful representation of drugs and targets is crucial for accurate
+prediction. Using 1D string-based representations for drugs and targets is a
+common approach that has demonstrated good results in drug-target affinity
+prediction. However, these approach lacks information on the relative position
+of the atoms and bonds. To address this limitation, graph-based representations
+have been used to some extent. However, solely considering the structural
+aspect of drugs and targets may be insufficient for accurate DTA prediction.
+Integrating the functional aspect of these drugs at the genetic level can
+enhance the prediction capability of the models. To fill this gap, we propose
+GramSeq-DTA, which integrates chemical perturbation information with the
+structural information of drugs and targets. We applied a Grammar Variational
+Autoencoder (GVAE) for drug feature extraction and utilized two different
+approaches for protein feature extraction: Convolutional Neural Network (CNN)
+and Recurrent Neural Network (RNN). The chemical perturbation data is obtained
+from the L1000 project, which provides information on the upregulation and
+downregulation of genes caused by selected drugs. This chemical perturbation
+information is processed, and a compact dataset is prepared, serving as the
+functional feature set of the drugs. By integrating the drug, gene, and target
+features in the model, our approach outperforms the current state-of-the-art
+DTA prediction models when validated on widely used DTA datasets (BindingDB,
+Davis, and KIBA). This work provides a novel and practical approach to DTA
+prediction by merging the structural and functional aspects of biological
+entities, and it encourages further research in multi-modal DTA prediction."
+2502.08975v2,"Graph-structured Small Molecule Drug Discovery Through Deep Learning:
+  Progress, Challenges, and Opportunities",2025-02-13T05:24:52Z,"Kun Li, Yida Xiong, Hongzhi Zhang, Xiantao Cai, Jia Wu, Bo Du, Wenbin Hu",http://arxiv.org/abs/2502.08975v2,http://arxiv.org/pdf/2502.08975v2,No journal ref found,"10 pages, 1 figures, 8 tables","Due to their excellent drug-like and pharmacokinetic properties, small
+molecule drugs are widely used to treat various diseases, making them a
+critical component of drug discovery. In recent years, with the rapid
+development of deep learning (DL) techniques, DL-based small molecule drug
+discovery methods have achieved excellent performance in prediction accuracy,
+speed, and complex molecular relationship modeling compared to traditional
+machine learning approaches. These advancements enhance drug screening
+efficiency and optimization and provide more precise and effective solutions
+for various drug discovery tasks. Contributing to this field's development,
+this paper aims to systematically summarize and generalize the recent key tasks
+and representative techniques in graph-structured small molecule drug discovery
+in recent years. Specifically, we provide an overview of the major tasks in
+small molecule drug discovery and their interrelationships. Next, we analyze
+the six core tasks, summarizing the related methods, commonly used datasets,
+and technological development trends. Finally, we discuss key challenges, such
+as interpretability and out-of-distribution generalization, and offer our
+insights into future research directions for small molecule drug discovery."
+2212.00213v1,Modern Definition of Bioactive Glasses and Glass-Ceramics,2022-12-01T01:43:44Z,"Adam Shearer, Maziar Montazerian, John C. Mauro",http://arxiv.org/abs/2212.00213v1,http://arxiv.org/pdf/2212.00213v1,"Journal of Non-Crystalline Solids, 608, 2023,122228",No comment found,"Bioactive glasses (BGs) and glass-ceramics (BGCs) have become a diverse
+family of materials being applied for treatment of many medical conditions. The
+traditional understanding of bioactive glasses and glass-ceramics pins them to
+bone-bonding capability without considering the other fields where they excel,
+such as soft tissue repair. We attempt to provide an updated definition of BGs
+and BGCs by comparing their structure, processing, and properties to those of
+other biomaterials. The proposed modern definition allows for consideration of
+all applications where the BGs and BGCs are currently used in the clinic and
+where the future of these promising biomaterials will grow. The new proposed
+definition of a bioactive glass is ""a non-equilibrium, non-crystalline material
+that has been designed to induce specific biological activity"". The proposed
+definition of a bioactive glass-ceramic is ""an inorganic, non-metallic material
+that contains at least one crystalline phase within a glassy matrix and has
+been designed to induce specific biological activity."" BGs and BGCs can bond to
+bone and soft tissues or contribute to their regeneration. They can deliver a
+specified concentration of inorganic therapeutic ions, heat for
+magnetic-induced hyperthermia or laser-induced phototherapy, radiation for
+brachytherapy, and drug delivery to combat pathogens and cancers."
+2407.10452v1,"GraphPrint: Extracting Features from 3D Protein Structure for Drug
+  Target Affinity Prediction",2024-07-15T05:45:09Z,Amritpal Singh,http://arxiv.org/abs/2407.10452v1,http://arxiv.org/pdf/2407.10452v1,No journal ref found,"Accepted: The NeurIPS 2023 Workshop on New Frontiers of AI for Drug
+  Discovery and Development (AI4D3 2023), New Orleans, LA, USA, 2023","Accurate drug target affinity prediction can improve drug candidate
+selection, accelerate the drug discovery process, and reduce drug production
+costs. Previous work focused on traditional fingerprints or used features
+extracted based on the amino acid sequence in the protein, ignoring its 3D
+structure which affects its binding affinity. In this work, we propose
+GraphPrint: a framework for incorporating 3D protein structure features for
+drug target affinity prediction. We generate graph representations for protein
+3D structures using amino acid residue location coordinates and combine them
+with drug graph representation and traditional features to jointly learn drug
+target affinity. Our model achieves a mean square error of 0.1378 and a
+concordance index of 0.8929 on the KIBA dataset and improves over using
+traditional protein features alone. Our ablation study shows that the 3D
+protein structure-based features provide information complementary to
+traditional features."
+1312.3571v1,Shape Selection and Multi-stability in Helical Ribbons,2013-12-12T17:55:07Z,"Qiaohang Guo, Anil K. Mehta, Martha A. Grover, Wenzhe Chen, David G. Lynn, Zi Chen",http://arxiv.org/abs/1312.3571v1,http://arxiv.org/pdf/1312.3571v1,No journal ref found,No comment found,"Helical structures, almost ubiquitous in biological systems, have inspired
+the design and manufacturing of helical devices with applications in
+nanoelecromechanical systems (NEMS), morphing structures, optoelectronics,
+micro-robotics and drug delivery devices. Meanwhile, multi-stable structures,
+represented by the Venus flytrap and slap bracelet, have attracted increasing
+attention due to their applications in making artificial muscles, bio-inspired
+robots, deployable aerospace components and energy harvesting devices. Here we
+show that the mechanical anisotropy pertinent to helical deformation, together
+with geometric nonlinearity associated with multi-stability, can lead to novel
+selection principle of the geometric shape and multi-stability in spontaneous
+helical ribbons. Simple table-top experiments were also performed to illustrate
+the working principle. Our work will promote understanding of spontaneous
+curling, twisting, wrinkling of thin objects and their instabilities, and serve
+as a tool in developing functional structures and devices with tunable,
+morphing geometries and smart actuation mechanism that can be applied in a
+spectrum of areas."
+2202.06635v1,Novel prediction methods for virtual drug screening,2022-02-14T11:41:39Z,Josip Mesarić,http://arxiv.org/abs/2202.06635v1,http://arxiv.org/pdf/2202.06635v1,No journal ref found,Review article,"Drug development is an expensive and time-consuming process where thousands
+of chemical compounds are being tested in order to find those possessing
+drug-like properties while being safe and effective. One of key parts of the
+early drug discovery process has become virtual drug screening -- a method used
+to narrow down search for potential drugs by running computer simulations of
+drug-target interactions. As these methods are known to demand huge amounts of
+computational power to get accurate results, prediction models based on machine
+learning techniques became a popular solution requiring less computational
+power as well as offering the ability to generate novel chemical structures for
+further research. Deep learning is to stay in drug discovery but has a long way
+to go. Only in the past few years with increases in computing power have
+researchers really started to embrace the potential of neural networks in
+various stages of the drug discovery process. While prediction methods promise
+great perspective in the future development of drug discovery they open new
+questions and challenges that still have to be solved."
+2311.09264v1,"Cross-domain feature disentanglement for interpretable modeling of tumor
+  microenvironment impact on drug response",2023-11-15T07:50:54Z,"Jia Zhai, Hui Liu",http://arxiv.org/abs/2311.09264v1,http://arxiv.org/pdf/2311.09264v1,No journal ref found,No comment found,"High-throughput screening technology has facilitated the generation of
+large-scale drug responses across hundreds of cancer cell lines. However, there
+exists significant discrepancy between in vitro cell lines and actual tumors in
+vivo in terms of their response to drug treatments, because of tumors comprise
+of complex cellular compositions and histopathology structure, known as tumor
+microenvironment (TME), which greatly influences the drug cytotoxicity against
+tumor cells. To date, no study has focused on modeling the impact of the TME on
+clinical drug response. This paper proposed a domain adaptation network for
+feature disentanglement to separate representations of cancer cells and TME of
+a tumor in patients. Two denoising autoencoders were separately used to extract
+features from cell lines (source domain) and tumors (target domain) for partial
+domain alignment and feature decoupling. The specific encoder was enforced to
+extract information only about TME. Moreover, to ensure generalizability to
+novel drugs, we applied a graph attention network to learn the latent
+representation of drugs, allowing us to linearly model the drug perturbation on
+cellular state in latent space. We calibrated our model on a benchmark dataset
+and demonstrated its superior performance in predicting clinical drug response
+and dissecting the influence of the TME on drug efficacy."
+2503.01376v1,"Pushing the boundaries of Structure-Based Drug Design through
+  Collaboration with Large Language Models",2025-03-03T10:18:38Z,"Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan",http://arxiv.org/abs/2503.01376v1,http://arxiv.org/pdf/2503.01376v1,No journal ref found,No comment found,"Structure-Based Drug Design (SBDD) has revolutionized drug discovery by
+enabling the rational design of molecules for specific protein targets. Despite
+significant advancements in improving docking scores, advanced 3D-SBDD
+generative models still face challenges in producing drug-like candidates that
+meet medicinal chemistry standards and pharmacokinetic requirements. These
+limitations arise from their inherent focus on molecular interactions, often
+neglecting critical aspects of drug-likeness. To address these shortcomings, we
+introduce the Collaborative Intelligence Drug Design (CIDD) framework, which
+combines the structural precision of 3D-SBDD models with the chemical reasoning
+capabilities of large language models (LLMs). CIDD begins by generating
+supporting molecules with 3D-SBDD models and then refines these molecules
+through LLM-supported modules to enhance drug-likeness and structural
+reasonability. When evaluated on the CrossDocked2020 dataset, CIDD achieved a
+remarkable success ratio of 37.94%, significantly outperforming the previous
+state-of-the-art benchmark of 15.72%. Although improving molecular interactions
+and drug-likeness is often seen as a trade-off, CIDD uniquely achieves a
+balanced improvement in both by leveraging the complementary strengths of
+different models, offering a robust and innovative pathway for designing
+therapeutically promising drug candidates."
+2409.04737v1,"CrysAtom: Distributed Representation of Atoms for Crystal Property
+  Prediction",2024-09-07T06:58:55Z,"Shrimon Mukherjee, Madhusudan Ghosh, Partha Basuchowdhuri",http://arxiv.org/abs/2409.04737v1,http://arxiv.org/pdf/2409.04737v1,No journal ref found,No comment found,"Application of artificial intelligence (AI) has been ubiquitous in the growth
+of research in the areas of basic sciences. Frequent use of machine learning
+(ML) and deep learning (DL) based methodologies by researchers has resulted in
+significant advancements in the last decade. These techniques led to notable
+performance enhancements in different tasks such as protein structure
+prediction, drug-target binding affinity prediction, and molecular property
+prediction. In material science literature, it is well-known that crystalline
+materials exhibit topological structures. Such topological structures may be
+represented as graphs and utilization of graph neural network (GNN) based
+approaches could help encoding them into an augmented representation space.
+Primarily, such frameworks adopt supervised learning techniques targeted
+towards downstream property prediction tasks on the basis of electronic
+properties (formation energy, bandgap, total energy, etc.) and crystalline
+structures. Generally, such type of frameworks rely highly on the handcrafted
+atom feature representations along with the structural representations. In this
+paper, we propose an unsupervised framework namely, CrysAtom, using untagged
+crystal data to generate dense vector representation of atoms, which can be
+utilized in existing GNN-based property predictor models to accurately predict
+important properties of crystals. Empirical results show that our dense
+representation embeds chemical properties of atoms and enhance the performance
+of the baseline property predictor models significantly."
+1507.08408v1,"Stable Drug Designing By Minimizing Drug Protein Interaction Energy
+  Using PSO",2015-07-30T07:50:24Z,"Anupam Ghosh, Mainak Talukdar, Uttam Kumar Roy",http://arxiv.org/abs/1507.08408v1,http://arxiv.org/pdf/1507.08408v1,No journal ref found,"11 pages, 8 Figures, AICTY 2015, Computer Science & Information
+  Technology (CS & IT). http://airccj.org/CSCP/vol5/csit54406.pdf, 2015","Each and every biological function in living organism happens as a result of
+protein-protein interactions.The diseases are no exception to this. Identifying
+one or more proteins for a particular disease and then designing a suitable
+chemical compound (known as drug) to destroy these proteins has been an
+interesting topic of research in bio-informatics. In previous methods, drugs
+were designed using only seven chemical components and were represented as a
+fixed-length tree. But in reality, a drug contains many chemical groups
+collectively known as pharmacophore. Moreover, the chemical length of the drug
+cannot be determined before designing the drug.In the present work, a Particle
+Swarm Optimization (PSO) based methodology has been proposed to find out a
+suitable drug for a particular disease so that the drug-protein interaction
+becomes stable. In the proposed algorithm, the drug is represented as a
+variable length tree and essential functional groups are arranged in different
+positions of that drug. Finally, the structure of the drug is obtained and its
+docking energy is minimized simultaneously. Also, the orientation of chemical
+groups in the drug is tested so that it can bind to a particular active site of
+a target protein and the drug fits well inside the active site of target
+protein. Here, several inter-molecular forces have been considered for accuracy
+of the docking energy. Results show that PSO performs better than the earlier
+methods."
+2108.06338v1,"Graph2MDA: a multi-modal variational graph embedding model for
+  predicting microbe-drug associations",2021-08-14T07:33:05Z,"Lei Deng, Yibiao Huang, Xuejun Liu, Hui Liu",http://arxiv.org/abs/2108.06338v1,http://arxiv.org/pdf/2108.06338v1,No journal ref found,No comment found,"Accumulated clinical studies show that microbes living in humans interact
+closely with human hosts, and get involved in modulating drug efficacy and drug
+toxicity. Microbes have become novel targets for the development of
+antibacterial agents. Therefore, screening of microbe-drug associations can
+benefit greatly drug research and development. With the increase of microbial
+genomic and pharmacological datasets, we are greatly motivated to develop an
+effective computational method to identify new microbe-drug associations. In
+this paper, we proposed a novel method, Graph2MDA, to predict microbe-drug
+associations by using variational graph autoencoder (VGAE). We constructed
+multi-modal attributed graphs based on multiple features of microbes and drugs,
+such as molecular structures, microbe genetic sequences, and function
+annotations. Taking as input the multi-modal attribute graphs, VGAE was trained
+to learn the informative and interpretable latent representations of each node
+and the whole graph, and then a deep neural network classifier was used to
+predict microbe-drug associations. The hyperparameter analysis and model
+ablation studies showed the sensitivity and robustness of our model. We
+evaluated our method on three independent datasets and the experimental results
+showed that our proposed method outperformed six existing state-of-the-art
+methods. We also explored the meaningness of the learned latent representations
+of drugs and found that the drugs show obvious clustering patterns that are
+significantly consistent with drug ATC classification. Moreover, we conducted
+case studies on two microbes and two drugs and found 75\%-95\% predicted
+associations have been reported in PubMed literature. Our extensive performance
+evaluations validated the effectiveness of our proposed method.\"
+2302.08680v1,"Modeling Polypharmacy and Predicting Drug-Drug Interactions using Deep
+  Generative Models on Multimodal Graphs",2023-02-17T04:06:46Z,"Nhat Khang Ngo, Truong Son Hy, Risi Kondor",http://arxiv.org/abs/2302.08680v1,http://arxiv.org/pdf/2302.08680v1,No journal ref found,arXiv admin note: substantial text overlap with arXiv:2209.09941,"Latent representations of drugs and their targets produced by contemporary
+graph autoencoder models have proved useful in predicting many types of
+node-pair interactions on large networks, including drug-drug, drug-target, and
+target-target interactions. However, most existing approaches model either the
+node's latent spaces in which node distributions are rigid or do not
+effectively capture the interrelations between drugs; these limitations hinder
+the methods from accurately predicting drug-pair interactions. In this paper,
+we present the effectiveness of variational graph autoencoders (VGAE) in
+modeling latent node representations on multimodal networks. Our approach can
+produce flexible latent spaces for each node type of the multimodal graph; the
+embeddings are used later for predicting links among node pairs under different
+edge types. To further enhance the models' performance, we suggest a new method
+that concatenates Morgan fingerprints, which capture the molecular structures
+of each drug, with their latent embeddings before preceding them to the
+decoding stage for link prediction. Our proposed model shows competitive
+results on three multimodal networks: (1) a multimodal graph consisting of drug
+and protein nodes, (2) a multimodal graph constructed from a subset of the
+DrugBank database involving drug nodes under different interaction types, and
+(3) a multimodal graph consisting of drug and cell line nodes. Our source code
+is publicly available at https://github.com/HySonLab/drug-interactions."
+2306.17771v1,Precision Anti-Cancer Drug Selection via Neural Ranking,2023-06-30T16:23:25Z,"Vishal Dey, Xia Ning",http://arxiv.org/abs/2306.17771v1,http://arxiv.org/pdf/2306.17771v1,No journal ref found,Accepted in BioKDD '23,"Personalized cancer treatment requires a thorough understanding of complex
+interactions between drugs and cancer cell lines in varying genetic and
+molecular contexts. To address this, high-throughput screening has been used to
+generate large-scale drug response data, facilitating data-driven computational
+models. Such models can capture complex drug-cell line interactions across
+various contexts in a fully data-driven manner. However, accurately
+prioritizing the most sensitive drugs for each cell line still remains a
+significant challenge. To address this, we developed neural ranking approaches
+that leverage large-scale drug response data across multiple cell lines from
+diverse cancer types. Unlike existing approaches that primarily utilize
+regression and classification techniques for drug response prediction, we
+formulated the objective of drug selection and prioritization as a drug ranking
+problem. In this work, we proposed two neural listwise ranking methods that
+learn latent representations of drugs and cell lines, and then use those
+representations to score drugs in each cell line via a learnable scoring
+function. Specifically, we developed a neural listwise ranking method,
+List-One, on top of the existing method ListNet. Additionally, we proposed a
+novel listwise ranking method, List-All, that focuses on all the sensitive
+drugs instead of the top sensitive drug, unlike List-One. Our results
+demonstrate that List-All outperforms the best baseline with significant
+improvements of as much as 8.6% in hit@20 across 50% test cell lines.
+Furthermore, our analyses suggest that the learned latent spaces from our
+proposed methods demonstrate informative clustering structures and capture
+relevant underlying biological features. Moreover, our comprehensive empirical
+evaluation provides a thorough and objective comparison of the performance of
+different methods (including our proposed ones)."
+2103.10916v1,"Predicting Drug-Drug Interactions from Heterogeneous Data: An Embedding
+  Approach",2021-03-19T17:25:48Z,"Devendra Singh Dhami, Siwen Yan, Gautam Kunapuli, David Page, Sriraam Natarajan",http://arxiv.org/abs/2103.10916v1,http://arxiv.org/pdf/2103.10916v1,No journal ref found,"10 pages, 6 figures, Accepted as a short paper to 'Artificial
+  Intelligence in Medicine 2021'","Predicting and discovering drug-drug interactions (DDIs) using machine
+learning has been studied extensively. However, most of the approaches have
+focused on text data or textual representation of the drug structures. We
+present the first work that uses multiple data sources such as drug structure
+images, drug structure string representation and relational representation of
+drug relationships as the input. To this effect, we exploit the recent advances
+in deep networks to integrate these varied sources of inputs in predicting
+DDIs. Our empirical evaluation against several state-of-the-art methods using
+standalone different data types for drugs clearly demonstrate the efficacy of
+combining heterogeneous data in predicting DDIs."
+2302.10168v1,"Investigation the effect of pH and reducing agent concentration on the
+  structural properties of zinc-substitution magnetite nanoparticles",2023-01-21T00:55:46Z,"Bahareh Rezaei, Ahmad Kermanpur, Sheyda Labbaf",http://arxiv.org/abs/2302.10168v1,http://arxiv.org/pdf/2302.10168v1,No journal ref found,No comment found,"Today, spinel ferrite nanoparticles are widely used in the medical field for
+cancer treatment, drug delivery, and magnetic resonance imaging contrast agent
+due to their superior magnetic properties and biocompatibility. Due to the
+strong dependence of magnetic properties on morphology and other structural
+aspects, the magnetic properties of these nanoparticles depend on their
+manufacturing process. One of the goals of the researchers is to improve the
+magnetic properties of these nanoparticles by substituting elements such as
+manganese, cobalt, zinc, nickel, magnesium and iron. In this research, first,
+magnetic Zn0.3Fe0.6O4 nanoparticles were synthesized by hydrothermal method in
+the presence of citric acid as a reducing agent. In order to reduce the amount
+of impurity and obtain the pure spinel phase and reduce the size of magnetic
+nanoparticles, the hydrothermal process was carried out in the presence of
+different concentrations of the reducing agent and pH level of the medium. The
+structural investigations of the resulting nanoparticles were carried out by
+X-ray diffraction (XRD) and scanning electron microscopy (SEM). The results
+showed that in order to obtain pure and single-phase spinel nanoparticles with
+appropriate particle size and size distribution, it is necessary to control the
+concentration of reducing agent and pH."
+2305.03925v3,Structure-Function Dynamics Hybrid Modeling: RNA Degradation,2023-05-06T04:40:48Z,"Hua Zheng, Wei Xie, Paul Whitford, Ailun Wang, Chunsheng Fang, Wandi Xu",http://arxiv.org/abs/2305.03925v3,http://arxiv.org/pdf/2305.03925v3,No journal ref found,"12 pages, 5 figures","RNA structure and functional dynamics play fundamental roles in controlling
+biological systems. Molecular dynamics simulation, which can characterize
+interactions at an atomistic level, can advance the understanding on new drug
+discovery, manufacturing, and delivery mechanisms. However, it is
+computationally unattainable to support the development of a digital twin for
+enzymatic reaction network mechanism learning, and end-to-end bioprocess design
+and control. Thus, we create a hybrid (""mechanistic + machine learning"") model
+characterizing the interdependence of RNA structure and functional dynamics
+from atomistic to macroscopic levels. To assess the proposed modeling strategy,
+in this paper, we consider RNA degradation which is a critical process in
+cellular biology that affects gene expression. The empirical study on RNA
+lifetime prediction demonstrates the promising performance of the proposed
+multi-scale bioprocess hybrid modeling strategy."
+2006.09747v1,"Research and development of MolAICal for drug design via deep learning
+  and classical programming",2020-06-17T09:39:47Z,Qifeng Bai,http://arxiv.org/abs/2006.09747v1,http://arxiv.org/pdf/2006.09747v1,No journal ref found,No comment found,"Deep learning methods have permeated into the research area of computer-aided
+drug design. The deep learning generative model and classical algorithm can be
+simultaneously used for three-dimensional (3D) drug design in the 3D pocket of
+the receptor. Here, three aspects of MolAICal are illustrated for drug design:
+in the first part, the MolAICal uses the genetic algorithm, Vinardo score and
+deep learning generative model trained by generative adversarial net (GAN) for
+drug design. In the second part, the deep learning generative model is trained
+by drug-like molecules from the drug database such as ZINC database. The
+MolAICal invokes the deep learning generative model and molecular docking for
+drug virtual screening automatically. In the third part, the useful drug tools
+are added for calculating the relative properties such as Pan-assay
+interference compounds (PAINS), Lipinski's rule of five, synthetic
+accessibility (SA), and so on. Besides, the structural similarity search and
+quantitative structure-activity relationship (QSAR), etc are also embedded for
+the calculations of drug properties in the MolAICal. MolAICal will constantly
+optimize and develop the current and new modules for drug design. The MolAICal
+can help the scientists, pharmacists and biologists to design the rational 3D
+drugs in the receptor pocket through the deep learning model and classical
+programming. MolAICal is free of charge for any academic and educational
+purposes, and it can be downloaded from the website https://molaical.github.io."
+2307.00859v4,"CardiGraphormer: Unveiling the Power of Self-Supervised Learning in
+  Revolutionizing Drug Discovery",2023-07-03T08:58:32Z,Abhijit Gupta,http://arxiv.org/abs/2307.00859v4,http://arxiv.org/pdf/2307.00859v4,No journal ref found,"Disagreement with my PhD supervisor about open sourcing the
+  publication and affiliation","In the expansive realm of drug discovery, with approximately 15,000 known
+drugs and only around 4,200 approved, the combinatorial nature of the chemical
+space presents a formidable challenge. While Artificial Intelligence (AI) has
+emerged as a powerful ally, traditional AI frameworks face significant hurdles.
+This manuscript introduces CardiGraphormer, a groundbreaking approach that
+synergizes self-supervised learning (SSL), Graph Neural Networks (GNNs), and
+Cardinality Preserving Attention to revolutionize drug discovery.
+CardiGraphormer, a novel combination of Graphormer and Cardinality Preserving
+Attention, leverages SSL to learn potent molecular representations and employs
+GNNs to extract molecular fingerprints, enhancing predictive performance and
+interpretability while reducing computation time. It excels in handling complex
+data like molecular structures and performs tasks associated with nodes, pairs
+of nodes, subgraphs, or entire graph structures. CardiGraphormer's potential
+applications in drug discovery and drug interactions are vast, from identifying
+new drug targets to predicting drug-to-drug interactions and enabling novel
+drug discovery. This innovative approach provides an AI-enhanced methodology in
+drug development, utilizing SSL combined with GNNs to overcome existing
+limitations and pave the way for a richer exploration of the vast combinatorial
+chemical space in drug discovery."
+2104.11674v1,"Genetic Constrained Graph Variational Autoencoder for COVID-19 Drug
+  Discovery",2021-04-23T16:10:15Z,"Tianyue Cheng, Tianchi Fan, Landi Wang",http://arxiv.org/abs/2104.11674v1,http://arxiv.org/pdf/2104.11674v1,No journal ref found,No comment found,"In the past several months, COVID-19 has spread over the globe and caused
+severe damage to the people and the society. In the context of this severe
+situation, an effective drug discovery method to generate potential drugs is
+extremely meaningful. In this paper, we provide a methodology of discovering
+potential drugs for the treatment of Severe Acute Respiratory Syndrome
+Corona-Virus 2 (commonly known as SARS-CoV-2). We proposed a new model called
+Genetic Constrained Graph Variational Autoencoder (GCGVAE) to solve this
+problem. We trained our model based on the data of various viruses' protein
+structure, including that of the SARS, HIV, Hep3, and MERS, and used it to
+generate possible drugs for SARS-CoV-2. Several optimization algorithms,
+including valency masking and genetic algorithm, are deployed to fine tune our
+model. According to the simulation, our generated molecules have great
+effectiveness in inhibiting SARS-CoV-2. We quantitatively calculated the scores
+of our generated molecules and compared it with the scores of existing drugs,
+and the result shows our generated molecules scores much better than those
+existing drugs. Moreover, our model can be also applied to generate effective
+drugs for treating other viruses given their protein structure, which could be
+used to generate drugs for future viruses."
+2503.08075v1,"MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling
+  in Knowledge Graphs",2025-03-11T06:08:42Z,"Haji Gul, Abdul Ghani Naim, Ajaz Ahmad Bhat",http://arxiv.org/abs/2503.08075v1,http://arxiv.org/pdf/2503.08075v1,No journal ref found,No comment found,"Accurate prediction of drug target interactions is critical for accelerating
+drug discovery and elucidating complex biological mechanisms. In this work, we
+frame drug target prediction as a link prediction task on heterogeneous
+biomedical knowledge graphs (KG) that integrate drugs, proteins, diseases,
+pathways, and other relevant entities. Conventional KG embedding methods such
+as TransE and ComplEx SE are hindered by their reliance on computationally
+intensive negative sampling and their limited generalization to unseen drug
+target pairs. To address these challenges, we propose Multi Context Aware
+Sampling (MuCoS), a novel framework that prioritizes high-density neighbours to
+capture salient structural patterns and integrates these with contextual
+embeddings derived from BERT. By unifying structural and textual modalities and
+selectively sampling highly informative patterns, MuCoS circumvents the need
+for negative sampling, significantly reducing computational overhead while
+enhancing predictive accuracy for novel drug target associations and drug
+targets. Extensive experiments on the KEGG50k dataset demonstrate that MuCoS
+outperforms state-of-the-art baselines, achieving up to a 13\% improvement in
+mean reciprocal rank (MRR) in predicting any relation in the dataset and a 6\%
+improvement in dedicated drug target relation prediction."
+2207.04502v2,"Building Open Knowledge Graph for Metal-Organic Frameworks (MOF-KG):
+  Challenges and Case Studies",2022-07-10T16:41:11Z,"Yuan An, Jane Greenberg, Xintong Zhao, Xiaohua Hu, Scott McCLellan, Alex Kalinowski, Fernando J. Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A. Gómez-Gualdrón, Fernando Fajardo-Rojas, Katherine Ardila",http://arxiv.org/abs/2207.04502v2,http://arxiv.org/pdf/2207.04502v2,No journal ref found,"Accepted by the International Workshop on Knowledge Graphs and Open
+  Knowledge Network (OKN'22) Co-located with the 28th ACM SIGKDD Conference","Metal-Organic Frameworks (MOFs) are a class of modular, porous crystalline
+materials that have great potential to revolutionize applications such as gas
+storage, molecular separations, chemical sensing, catalysis, and drug delivery.
+The Cambridge Structural Database (CSD) reports 10,636 synthesized MOF crystals
+which in addition contains ca. 114,373 MOF-like structures. The sheer number of
+synthesized (plus potentially synthesizable) MOF structures requires
+researchers pursue computational techniques to screen and isolate MOF
+candidates. In this demo paper, we describe our effort on leveraging knowledge
+graph methods to facilitate MOF prediction, discovery, and synthesis. We
+present challenges and case studies about (1) construction of a MOF knowledge
+graph (MOF-KG) from structured and unstructured sources and (2) leveraging the
+MOF-KG for discovery of new or missing knowledge."
+2410.17270v2,"MOFFlow: Flow Matching for Structure Prediction of Metal-Organic
+  Frameworks",2024-10-07T13:51:58Z,"Nayoung Kim, Seongsu Kim, Minsu Kim, Jinkyoo Park, Sungsoo Ahn",http://arxiv.org/abs/2410.17270v2,http://arxiv.org/pdf/2410.17270v2,International Conference on Learning Representations (ICLR) 2025,"10 pages, 6 figures","Metal-organic frameworks (MOFs) are a class of crystalline materials with
+promising applications in many areas such as carbon capture and drug delivery.
+In this work, we introduce MOFFlow, the first deep generative model tailored
+for MOF structure prediction. Existing approaches, including ab initio
+calculations and even deep generative models, struggle with the complexity of
+MOF structures due to the large number of atoms in the unit cells. To address
+this limitation, we propose a novel Riemannian flow matching framework that
+reduces the dimensionality of the problem by treating the metal nodes and
+organic linkers as rigid bodies, capitalizing on the inherent modularity of
+MOFs. By operating in the $SE(3)$ space, MOFFlow effectively captures the
+roto-translational dynamics of these rigid components in a scalable way. Our
+experiment demonstrates that MOFFlow accurately predicts MOF structures
+containing several hundred atoms, significantly outperforming conventional
+methods and state-of-the-art machine learning baselines while being much
+faster."
+2103.13662v1,"On the phase behaviour of pure PSPC and PEGylated multi-component lipid
+  and their interaction with Paclitaxel: An all-atom MD study",2021-03-25T08:28:16Z,"Prantar Dutta, Debabrata Pramanik, Jayant K. Singh",http://arxiv.org/abs/2103.13662v1,http://arxiv.org/pdf/2103.13662v1,No journal ref found,"32 pages, 3 tables, 11 figures","The study of the structural behaviour of pure and multi-component lipids at
+various temperatures and the interaction of these multi-component lipids with
+pharmaceutically important drugs carry huge importance. Here, we investigated
+the phase behaviour of the pure PSPC
+(1-palmitoyl-2-stearoyl-sn-glycero-3-phosphocholine), and multicomponent PSPC
+and
+DSPE-PEG2000(1,2-distearoyl-sn-glycero-3-phosphoethanolamine-N[amino(polyethylene
+glycol)-2000]) membranes at seven different temperatures ranging from 280 K to
+360 K, and calculated their structural properties. We observe a transition from
+the gel phase to the liquid crystalline phase between 320 K and 330 K in
+agreement with experimental reports for pure PSPC. PSPC remained in the tilted
+gel phase L\b{eta}$'$ at 320 K and 310 K, entered the 'mixed ordered' domain
+with a partially interdigitated region at 300 K, and finally formed the sub gel
+phase at 280 K. We studied the self-assembly for the multicomponent PSPC and
+DSPE-PEG2000 membranes and found the coexistence of ordered and disordered
+phases at 320 K. In comparison to the pure PSPC, for multicomponent system,
+this transition was gradual, and a complete liquid crystalline to gel phase
+transformation occurred between 320 K and 310 K. We further studied the
+interaction of Paclitaxel with pure PSPC and PEGylated multicomponent lipid
+bilayers using umbrella sampling technique and observed PEG promotes the
+interaction of Paclitaxel with the later one in comparison to the former. Above
+the bilayer transition temperature, Paclitaxel interacts more with the bilayer
+and enters inside the bilayer easily for both systems. Understanding of
+structural and interaction behaviour of the PEGylated multicomponent lipid
+bilayers with Paclitaxel will help explore Paclitaxel based drug applications
+in the future."
+1712.07038v1,Spontaneous and mass-conserved formation of continuous Si frameworks,2017-12-19T16:46:03Z,"K. Ogata, D. -S. Ko, C. Jung, JH. Lee, SH. Sul, H. -G. Kim, JA. Seo, J. Jang, M. Koh, KH. Kim, J. H. Kim, I. S. Jung, M. S. Park, K. Takei, K. Ito, Y. Kubo, K. Uosaki, SG. Doo, S. Han, JK. Shin, S. Jeon",http://arxiv.org/abs/1712.07038v1,http://arxiv.org/pdf/1712.07038v1,No journal ref found,"Main body 24 pages (4 figures), Supplementary Information 14 pages
+  (10 supplementary figures)","Controlled formation of porous silicon has been of primary importance for
+numerous landmark applications such as light emitting sources, sensors,
+actuators, drug delivery systems, and energy storage applications. Frequently
+explored methods to form the structures have long relied on selective etching
+of silicon, which still stands as the most controllable and reliable methods to
+highlight essence of the applications. Here, we demonstrate an unprecedented
+approach to form silicon framework, which is spontaneously formed with
+atomistic arrangement of silicon without gravimetric loss via single
+electrochemical (de)alloying with lithium. Carefully controlling bare
+crystallinity of Si and composite/electrode designs, we reveal that the key
+prerequisite to forming the structure lies in using unique dealloying dynamics
+of crystalline-amorphous phase transformations at room temperature. Using the
+feature, we clearly highlight that commercially available nano-structured
+silicon particles can abruptly yet uniformly transform into continuous sub-2 nm
+spherical silicon frameworks with size-tunable pores."
+2305.14190v2,"Tunable Resins with PDMS-like Elastic Modulus for Stereolithographic
+  3D-printing of Multimaterial Microfluidic Actuators",2023-05-23T16:11:49Z,"Alireza Ahmadianyazdi, Isaac J. Miller, Albert Folch",http://arxiv.org/abs/2305.14190v2,http://arxiv.org/pdf/2305.14190v2,"Lab Chip, 2023,23, 4019-4032",No comment found,"Stereolithographic 3D-printing (SLA) permits facile fabrication of
+high-precision microfluidic and lab-on-a-chip devices. SLA photopolymers often
+yield parts with low mechanical compliancy in sharp contrast to elastomers such
+as poly(dimethyl siloxane) (PDMS). On the other hand, SLA-printable elastomers
+with soft mechanical properties do not fulfill the distinct requirements for a
+highly manufacturable resin in microfluidics (e.g., high-resolution
+printability, transparency, low-viscosity). These limitations restrict our
+ability to print microfluidic actuators containing dynamic, movable elements.
+Here we introduce low-viscous photopolymers based on a tunable blend of
+poly(ethylene glycol) diacrylate (PEGDA, Mw~258) and poly(ethylene glycol
+methyl ether) methacrylate (PEGMEMA, Mw~300) monomers. In these blends, which
+we term PEGDA-co-PEGMEMA, tuning the PEGMEMA-to-PEGDA ratio alters the elastic
+modulus of the printed plastics by ~400-fold, reaching that of PDMS. Through
+the addition of PEGMEMA, moreover, PEGDA-co-PEGMEMA retains desirable
+properties of highly manufacturable PEGDA such as low viscosity, solvent
+compatibility, cytocompatibility and low drug absorptivity. With
+PEGDA-co-PEGMEMA, we SLA-printed drastically enhanced fluidic actuators
+including microvalves, micropumps, and microregulators with a hybrid structure
+containing a flexible PEGDA-co-PEGMEMA membrane within a rigid PEGDA housing.
+These components were built using a custom ""Print-Pause-Print"" protocol,
+referred to as ""3P-printing"", that allows for fabricating high-resolution
+multimaterial parts with a desktop SLA printer without the need for
+post-assembly. SLA-printing of multimaterial microfluidic actuators addresses
+the unmet need of high-performance on-chip controls in 3D-printed microfluidic
+and lab-on-a-chip devices."
+2104.15016v1,DNA origami,2021-04-30T14:03:59Z,"Swarup Dey, Chunhai Fan, Kurt V. Gothelf, Jiang Li, Chenxiang Lin, Longfei Liu, Na Liu, Minke A. D. Nijenhuis, Barbara Sacca, Friedrich C. Simmel, Hao Yan, Pengfei Zhan",http://arxiv.org/abs/2104.15016v1,http://arxiv.org/pdf/2104.15016v1,"Nature Reviews Methods Primers 1, Article number: 13 (2021)",No comment found,"Biological materials are self-assembled with near-atomic precision in living
+cells, whereas synthetic 3D structures generally lack such precision and
+controllability. Recently, DNA nanotechnology, especially DNA origami
+technology, has been useful in the bottom-up fabrication of well-defined
+nanostructures ranging from tens of nanometres to sub-micrometres. In this
+Primer, we summarize the methodologies of DNA origami technology, including
+origami design, synthesis, functionalization and characterization. We highlight
+applications of origami structures in nanofabrication, nanophotonics and
+nanoelectronics, catalysis, computation, molecular machines, bioimaging, drug
+delivery and biophysics. We identify challenges for the field, including size
+limits, stability issues and the scale of production, and discuss their
+possible solutions. We further provide an outlook on next-generation DNA
+origami techniques that will allow in vivo synthesis and multiscale
+manufacturing."
+1512.04967v1,"Mechanical Self-Assembly of a Strain-Engineered Flexible Layer:
+  Wrinkling, Rolling, and Twisting",2015-12-09T15:28:59Z,"Zi Chen, Gaoshan Huang, Ian Trase, Xiaomin Han, Yongfeng Mei",http://arxiv.org/abs/1512.04967v1,http://arxiv.org/pdf/1512.04967v1,No journal ref found,"91 pages, 35 figures, review article","Self-shaping of curved structures, especially those involving flexible thin
+layers, has attracted increasing attention because of their broad potential
+applications in e.g. nanoelectromechanical/micro-electromechanical systems
+(NEMS/MEMS), sensors, artificial skins, stretchable electronics, robotics, and
+drug delivery. Here, we provide an overview of recent experimental,
+theoretical, and computational studies on the mechanical self-assembly of
+strain-engineered thin layers, with an emphasis on systems in which the
+competition between bending and stretchingenergy gives rise to a variety
+ofdeformations,such as wrinkling, rolling, and twisting. We address the
+principle of mechanical instabilities, which is often manifested in wrinkling
+or multistability of strain-engineered thin layers. The principles of shape
+selection and transition in helical ribbons are also systematically examined.
+We hope that a more comprehensive understanding of the mechanical principles
+underlying these rich phenomena can foster the development of new techniques
+for manufacturing functional three- dimensional structures on demand for a
+broad spectrum of engineering applications."
+1806.07477v1,"The Impact of Competition Between Cancer Cells and Healthy Cells on
+  Optimal Drug Delivery",2018-06-19T21:26:02Z,"Heyrim Cho, Doron Levy",http://arxiv.org/abs/1806.07477v1,http://arxiv.org/pdf/1806.07477v1,No journal ref found,18 pages,"Cell competition is recognized to be instrumental to the dynamics and
+structure of the tumor-host interface in invasive cancers. In mild competition
+scenarios, the healthy tissue and cancer cells can coexist. When the
+competition is aggressive, competitive cells, the so called super-competitors,
+expand by killing other cells. Novel cytotoxic drugs and molecularly targeted
+drugs are commonly administered as part of cancer therapy. Both types of drugs
+are susceptible to various mechanisms of drug resistance, obstructing or
+preventing a successful outcome. In this paper, we develop a cancer growth
+model that accounts for the competition between cancer cells and healthy cells.
+The model incorporates resistance to both cytotoxic and targeted drugs. In both
+cases, the level of drug resistance is assumed to be a continuous variable
+ranging from fully-sensitive to fully-resistant. Using our model we demonstrate
+that when the competition is moderate, therapies using both drugs are more
+effective compared with single drug therapies. However, when cancer cells are
+highly competitive, targeted drugs become more effective. In this case,
+therapies that are initiated with a targeted drug and are exposed to it for a
+sufficiently long time are shown to have better outcomes. The results of the
+study stress the importance of adjusting the therapy to the pre-treatment
+resistance levels. We conclude with a study of the spatiotemporal propagation
+of drug resistance in a competitive setting, verifying that the same
+conclusions hold in the spatially heterogeneous case."
+1907.11911v1,REP: Predicting the Time-Course of Drug Sensitivity,2019-07-27T13:49:40Z,"Cheng Qian, Amin Emad, Nicholas D. Sidiropoulos",http://arxiv.org/abs/1907.11911v1,http://arxiv.org/pdf/1907.11911v1,No journal ref found,No comment found,"The biological processes involved in a drug's mechanisms of action are
+oftentimes dynamic, complex and difficult to discern. Time-course gene
+expression data is a rich source of information that can be used to unravel
+these complex processes, identify biomarkers of drug sensitivity and predict
+the response to a drug. However, the majority of previous work has not fully
+utilized this temporal dimension. In these studies, the gene expression data is
+either considered at one time-point (before the administration of the drug) or
+two timepoints (before and after the administration of the drug). This is
+clearly inadequate in modeling dynamic gene-drug interactions, especially for
+applications such as long-term drug therapy.
+  In this work, we present a novel REcursive Prediction (REP) framework for
+drug response prediction by taking advantage of time-course gene expression
+data. Our goal is to predict drug response values at every stage of a long-term
+treatment, given the expression levels of genes collected in the previous
+time-points. To this end, REP employs a built-in recursive structure that
+exploits the intrinsic time-course nature of the data and integrates past
+values of drug responses for subsequent predictions. It also incorporates
+tensor completion that can not only alleviate the impact of noise and missing
+data, but also predict unseen gene expression levels (GELs). These advantages
+enable REP to estimate drug response at any stage of a given treatment from
+some GELs measured in the beginning of the treatment. Extensive experiments on
+a dataset corresponding to 53 multiple sclerosis patients treated with
+interferon are included to showcase the effectiveness of REP."
+2208.11267v2,"Molecular Substructure-Aware Network for Drug-Drug Interaction
+  Prediction",2022-08-24T02:06:21Z,"Xinyu Zhu, Yongliang Shen, Weiming Lu",http://arxiv.org/abs/2208.11267v2,http://arxiv.org/pdf/2208.11267v2,No journal ref found,"Accepted to CIKM 2022 (Short), camera ready version","Concomitant administration of drugs can cause drug-drug interactions (DDIs).
+Some drug combinations are beneficial, but other ones may cause negative
+effects which are previously unrecorded. Previous works on DDI prediction
+usually rely on hand-engineered domain knowledge, which is laborious to obtain.
+In this work, we propose a novel model, Molecular Substructure-Aware Network
+(MSAN), to effectively predict potential DDIs from molecular structures of drug
+pairs. We adopt a Transformer-like substructure extraction module to acquire a
+fixed number of representative vectors that are associated with various
+substructure patterns of the drug molecule. Then, interaction strength between
+the two drugs' substructures will be captured by a similarity-based interaction
+module. We also perform a substructure dropping augmentation before graph
+encoding to alleviate overfitting. Experimental results from a real-world
+dataset reveal that our proposed model achieves the state-of-the-art
+performance. We also show that the predictions of our model are highly
+interpretable through a case study."
+2406.01410v1,"Remote-Controlled Activation of the Release through Drug-Loaded Magnetic
+  Electrospun Fibers",2024-06-03T15:09:19Z,"Richard Ziegler, Shaista Ilyas, Sanjay Mathur, Gerardo F. Goya, Jesús Antonio Fuentes-García",http://arxiv.org/abs/2406.01410v1,http://arxiv.org/pdf/2406.01410v1,No journal ref found,No comment found,"The integration of magnetic nanoparticles within fibrillar structures
+represents an interesting avenue for the remotely controlled release of
+therapeutic agents. This work presents a novel drug release platform based on
+electrospun magnetic fibers (EMFs) combining drugs, magnetic nanoparticles
+(MNPs) and mesoporous silica nanoparticles (MSNs) for controlled drug delivery
+via alternating magnetic fields (AMF). The platform was demonstrated to be
+versatile and effective for hydrophilic ketorolac (KET) and hydrophobic
+curcumin (CUR) encapsulation and the major response observed for AMF-triggered
+release was reached using drug-loaded MSNs within the fibers, providing fine
+control over drug release patterns. The EMFs exhibited excellent inductive
+heating capabilities, showing a temperature increase up to 8 {\deg}C within a 5
+min AMF pulse. The system is shown to be promising for applications like
+transdermal pain management, oncological drug delivery, tissue engineering, and
+wound healing, enabling precise control over drug release in both spatial and
+temporal dimensions. The findings of this study offer valuable insights into
+the development of the next generation of smart drug delivery systems, based in
+multifunctional materials that can be remotely regulated and potentially
+revolutionize the field of nanomedicine."
+1802.06404v2,"Using 3D Hahn Moments as A Computational Representation of ATS Drugs
+  Molecular Structure",2018-02-18T17:03:22Z,"Satrya Fajri Pratama, Azah Kamilah Muda, Yun-Huoy Choo, Ramon Carbó-Dorca, Ajith Abraham",http://arxiv.org/abs/1802.06404v2,http://arxiv.org/pdf/1802.06404v2,No journal ref found,No comment found,"The campaign against drug abuse is fought by all countries, most notably on
+ATS drugs. The technical limitations of the current test kits to detect new
+brand of ATS drugs present a challenge to law enforcement authorities and
+forensic laboratories. Meanwhile, new molecular imaging devices which allowed
+mankind to characterize the physical 3D molecular structure have been recently
+introduced, and it can be used to remedy the limitations of existing drug test
+kits. Thus, a new type of 3D molecular structure representation technique
+should be developed to cater the 3D molecular structure acquired physically
+using these molecular imaging devices. One of the applications of image
+processing methods to represent a 3D image is 3D moments, and this study
+formulates a new 3D moments technique, namely 3D Hahn moments, to represent the
+3D molecular structure of ATS drugs. The performance of the proposed technique
+was analysed using drug chemical structures obtained from UNODC for the ATS
+drugs, while non-ATS drugs are obtained randomly from ChemSpider database. The
+evaluation shows the technique is qualified to be further explored in the
+future works to be fully compatible with ATS drug identification domain."
+2503.13322v1,"SMPR: A structure-enhanced multimodal drug-disease prediction model for
+  drug repositioning and cold start",2025-03-17T15:59:20Z,"Xin Dong, Rui Miao, Suyan Zhang, Shuaibing Jia, Leifeng Zhang, Yong Liang, Jianhua Zhang, Yi Zhun Zhu",http://arxiv.org/abs/2503.13322v1,http://arxiv.org/pdf/2503.13322v1,No journal ref found,No comment found,"Repositioning drug-disease relationships has always been a hot field of
+research. However, actual cases of biologically validated drug relocation
+remain very limited, and existing models have not yet fully utilized the
+structural information of the drug. Furthermore, most repositioning models are
+only used to complete the relationship matrix, and their practicality is poor
+when dealing with drug cold start problems. This paper proposes a
+structure-enhanced multimodal relationship prediction model (SMRP). SMPR is
+based on the SMILE structure of the drug, using the Mol2VEC method to generate
+drug embedded representations, and learn disease embedded representations
+through heterogeneous network graph neural networks. Ultimately, a drug-disease
+relationship matrix is constructed. In addition, to reduce the difficulty of
+users' use, SMPR also provides a cold start interface based on structural
+similarity based on reposition results to simply and quickly predict
+drug-related diseases. The repositioning ability and cold start capability of
+the model are verified from multiple perspectives. While the AUC and ACUPR
+scores of repositioning reach 99% and 61% respectively, the AUC of cold start
+achieve 80%. In particular, the cold start Recall indicator can reach more than
+70%, which means that SMPR is more sensitive to positive samples. Finally, case
+analysis is used to verify the practical value of the model and visual analysis
+directly demonstrates the improvement of the structure to the model. For quick
+use, we also provide local deployment of the model and package it into an
+executable program."
+1811.00208v1,"Multi-Label Robust Factorization Autoencoder and its Application in
+  Predicting Drug-Drug Interactions",2018-11-01T03:50:45Z,"Xu Chu, Yang Lin, Jingyue Gao, Jiangtao Wang, Yasha Wang, Leye Wang",http://arxiv.org/abs/1811.00208v1,http://arxiv.org/pdf/1811.00208v1,No journal ref found,No comment found,"Drug-drug interactions (DDIs) are a major cause of preventable
+hospitalizations and deaths. Predicting the occurrence of DDIs helps drug
+safety professionals allocate investigative resources and take appropriate
+regulatory action promptly. Traditional DDI prediction methods predict DDIs
+based on the similarity between drugs. Recently, researchers revealed that
+predictive performance can be improved by better modeling the interactions
+between drug pairs with bilinear forms. However, the shallow models leveraging
+bilinear forms suffer from limitations on capturing complicated nonlinear
+interactions between drug pairs. To this end, we propose Multi-Label Robust
+Factorization Autoencoder (abbreviated to MuLFA) for DDI prediction, which
+learns a representation of interactions between drug pairs and has the
+capability of characterizing complicated nonlinear interactions more precisely.
+Moreover, a novel loss called CuXCov is designed to effectively learn the
+parameters of MuLFA. Furthermore, the decoder is able to generate high-risk
+chemical structures of drug pairs for specific DDIs, assisting pharmacists to
+better understand the relationship between drug chemistry and DDI. Experimental
+results on real-world datasets demonstrate that MuLFA consistently outperforms
+state-of-the-art methods; particularly, it increases 21:3% predictive
+performance compared to the best baseline for top 50 frequent DDIs.We also
+illustrate various case studies to demonstrate the efficacy of the chemical
+structures generated by MuLFA in DDI diagnosis."
+2503.02781v1,"Multimodal AI predicts clinical outcomes of drug combinations from
+  preclinical data",2025-03-04T16:55:14Z,"Yepeng Huang, Xiaorui Su, Varun Ullanat, Ivy Liang, Lindsay Clegg, Damilola Olabode, Nicholas Ho, Bino John, Megan Gibbs, Marinka Zitnik",http://arxiv.org/abs/2503.02781v1,http://arxiv.org/pdf/2503.02781v1,No journal ref found,No comment found,"Predicting clinical outcomes from preclinical data is essential for
+identifying safe and effective drug combinations. Current models rely on
+structural or target-based features to identify high-efficacy, low-toxicity
+drug combinations. However, these approaches fail to incorporate the multimodal
+data necessary for accurate, clinically-relevant predictions. Here, we
+introduce MADRIGAL, a multimodal AI model that learns from structural, pathway,
+cell viability, and transcriptomic data to predict drug combination effects
+across 953 clinical outcomes and 21842 compounds, including combinations of
+approved drugs and novel compounds in development. MADRIGAL uses a transformer
+bottleneck module to unify preclinical drug data modalities while handling
+missing data during training and inference--a major challenge in multimodal
+learning. It outperforms single-modality methods and state-of-the-art models in
+predicting adverse drug interactions. MADRIGAL performs virtual screening of
+anticancer drug combinations and supports polypharmacy management for type II
+diabetes and metabolic dysfunction-associated steatohepatitis (MASH). It
+identifies transporter-mediated drug interactions. MADRIGAL predicts
+resmetirom, the first and only FDA-approved drug for MASH, among therapies with
+the most favorable safety profile. It supports personalized cancer therapy by
+integrating genomic profiles from cancer patients. Using primary acute myeloid
+leukemia samples and patient-derived xenograft models, it predicts the efficacy
+of personalized drug combinations. Integrating MADRIGAL with a large language
+model allows users to describe clinical outcomes in natural language, improving
+safety assessment by identifying potential adverse interactions and toxicity
+risks. MADRIGAL provides a multimodal approach for designing combination
+therapies with improved predictive accuracy and clinical relevance."
+1811.07693v1,"Data Compliance in Pharmaceutical Industry, Interoperability to align
+  Business and Information Systems",2018-10-31T09:56:27Z,"Néjib Moalla, Abdelaziz Bouras, Gilles Neubert, Yacine Ouzrout",http://arxiv.org/abs/1811.07693v1,http://arxiv.org/pdf/1811.07693v1,"International Conference on Enterprise Information Systems, May
+  2006, Paphos, Cyprus. pp.79-86, 2006",No comment found,"The ultimate goal in the pharmaceutical sector is product quality. However
+this quality can be altered by the use of a number of heterogeneous information
+systems with different business structures and concepts along the lifecycle of
+the product. Interoperability is then needed to guarantee a certain
+correspondence and compliance between different product data. In this paper we
+focus on a particular compliance problem, between production technical data,
+represented in an ERP, and the corresponding regulatory directives and
+specifications, represented by the Marketing Authorizations (MA). The MA detail
+the process for manufacturing the medicine according to the requirements
+imposed by health organisations such as Food and Drug Administration (FDA) and
+Committee for Medicinal Products for Human use (CHMP). The proposed approach
+uses an interoperability framework which is based on a multi-layer separation
+between the organisational aspects, business trades, and information
+technologies for each involved entity into the communication between the used
+systems."
+2105.05937v1,"Security for Emerging Miniaturized Wireless Biomedical Devices: Threat
+  Modeling with Application to Case Studies",2021-05-12T20:00:28Z,"Vladimir Vakhter, Betul Soysal, Patrick Schaumont, Ulkuhan Guler",http://arxiv.org/abs/2105.05937v1,http://arxiv.org/pdf/2105.05937v1,No journal ref found,No comment found,"The landscape of miniaturized wireless biomedical devices (MWBDs) is rapidly
+expanding as proactive mobile healthcare proliferates. MWBDs are diverse and
+include various injectable, ingestible, implantable, and wearable devices.
+While the growth of MWBDs increases the flexibility of medical services, the
+adoption of these technologies brings privacy and security risks for their
+users. MWBDs can operate with sensitive, private information and affect
+patients through the use of stimulation and drug delivery. Therefore, these
+devices require trust and need to be secure. Embedding protective mechanisms
+into MWBDs is challenging because they are restricted in size, power budget, as
+well as processing and storage capabilities. Nevertheless, MWBDs need to be at
+least minimally securable in the face of evolving threats. The main intent of
+this work is to make the primary stakeholders of MWBDs aware of associated
+risks and to help the architects and the manufacturers of MWBDs protect their
+emerging designs in a repeatable and structured manner. Making MWBDs securable
+begins with performing threat modeling. This paper introduces a domain-specific
+qualitative-quantitative threat model dedicated to MWBDs. The proposed model is
+then applied to representative case studies from each category of MWBDs."
+2309.09355v3,"Structure to Property: Chemical Element Embeddings and a Deep Learning
+  Approach for Accurate Prediction of Chemical Properties",2023-09-17T19:41:32Z,"Shokirbek Shermukhamedov, Dilorom Mamurjonova, Michael Probst",http://arxiv.org/abs/2309.09355v3,http://arxiv.org/pdf/2309.09355v3,No journal ref found,"26 pages, 16 figures, 6 tables, 50 references","We introduce the elEmBERT model for chemical classification tasks. It is
+based on deep learning techniques, such as a multilayer encoder architecture.
+We demonstrate the opportunities offered by our approach on sets of organic,
+inorganic and crystalline compounds. In particular, we developed and tested the
+model using the Matbench and Moleculenet benchmarks, which include crystal
+properties and drug design-related benchmarks. We also conduct an analysis of
+vector representations of chemical compounds, shedding light on the underlying
+patterns in structural data. Our model exhibits exceptional predictive
+capabilities and proves universally applicable to molecular and material
+datasets. For instance, on the Tox21 dataset, we achieved an average precision
+of 96%, surpassing the previously best result by 10%."
+2501.08572v1,"DNMDR: Dynamic Networks and Multi-view Drug Representations for Safe
+  Medication Recommendation",2025-01-15T04:36:55Z,"Guanlin Liu, Xiaomei Yu, Zihao Liu, Xue Li, Xingxu Fan, Xiangwei Zheng",http://arxiv.org/abs/2501.08572v1,http://arxiv.org/pdf/2501.08572v1,No journal ref found,No comment found,"Medication Recommendation (MR) is a promising research topic which booms
+diverse applications in the healthcare and clinical domains. However, existing
+methods mainly rely on sequential modeling and static graphs for representation
+learning, which ignore the dynamic correlations in diverse medical events of a
+patient's temporal visits, leading to insufficient global structural
+exploration on nodes. Additionally, mitigating drug-drug interactions (DDIs) is
+another issue determining the utility of the MR systems. To address the
+challenges mentioned above, this paper proposes a novel MR method with the
+integration of dynamic networks and multi-view drug representations (DNMDR).
+Specifically, weighted snapshot sequences for dynamic heterogeneous networks
+are constructed based on discrete visits in temporal EHRs, and all the dynamic
+networks are jointly trained to gain both structural correlations in diverse
+medical events and temporal dependency in historical health conditions, for
+achieving comprehensive patient representations with both semantic features and
+structural relationships. Moreover, combining the drug co-occurrences and
+adverse drug-drug interactions (DDIs) in internal view of drug molecule
+structure and interactive view of drug pairs, the safe drug representations are
+available to obtain high-quality medication combination recommendation.
+Finally, extensive experiments on real world datasets are conducted for
+performance evaluation, and the experimental results demonstrate that the
+proposed DNMDR method outperforms the state-of-the-art baseline models with a
+large margin on various metrics such as PRAUC, Jaccard, DDI rates and so on."
+2112.11319v1,"3D arrangement of epitaxial graphene conformally grown on porousified
+  crystalline SiC",2021-12-21T16:13:06Z,"Stefano Veronesi, Georg Pfusterschmied, Filippo Fabbri, Markus Leitgeb, Omer Arif, Daniel Esteban Arenas, Sara Bals, Ulrich Schmid, Stefan Heun",http://arxiv.org/abs/2112.11319v1,http://arxiv.org/pdf/2112.11319v1,Carbon 189 (2022) 210-218,No comment found,"Nanoporous materials represent a versatile solution for a number of
+applications ranging from sensing, energy applications, catalysis, drug
+delivery, and many others. The synergy between the outstanding properties of
+graphene with a three-dimensional porous structure, circumventing the limits of
+its 2D nature, constitutes therefore a breakthrough for many fields. We report
+the first three-dimensional growth of epitaxial graphene on a porousified
+crystalline 4H-SiC(0001). The wafer porosification is performed via a sequence
+of metal-assisted photochemical and photoelectrochemical etching in
+hydrofluoric acid based electrolytes. Pore dimensions of the matrix have been
+evaluated by electron tomography resulting in an average diameter of 180 nm.
+Graphene growth is performed in an ultra high vacuum environment at a base
+pressure of $10^{-11}$ mbar. The graphene growth inside the pores is uniform as
+confirmed by Transmission Electron Microscopy (TEM) analysis. Raman
+spectroscopy confirms the high quality of the graphene with a 2D/G ratio $>1$
+and an average graphene crystal size of $\approx$ 100 nm. Furthermore, it
+demonstrates a uniform coverage of graphene across the whole sample area. The
+surface-to-volume ratio of this novel material, its properties, the tunability
+of the pore size and the scalability of the surface porosification process
+offer a game changing perspective for a large number of applications."
+0711.1568v1,A global view of drug-therapy interactions,2007-11-10T03:01:41Z,"Jose C Nacher, Jean-Marc Schwartz",http://arxiv.org/abs/0711.1568v1,http://arxiv.org/pdf/0711.1568v1,No journal ref found,"16 pages, 4 figures. It was submitted to peer review on August 15,
+  2007","Network science is already making an impact on the study of complex systems
+and offers a promising variety of tools to understand their formation and
+evolution (1-4) in many disparate fields from large communication networks
+(5,6), transportation infrastructures (7) and social communities (8,9) to
+biological systems (1,10,11). Even though new highthroughput technologies have
+rapidly been generating large amounts of genomic data, drug design has not
+followed the same development, and it is still complicated and expensive to
+develop new single-target drugs. Nevertheless, recent approaches suggest that
+multi-target drug design combined with a network-dependent approach and
+large-scale systems-oriented strategies (12-14) create a promising framework to
+combat complex multigenetic disorders like cancer or diabetes. Here, we
+investigate the human network corresponding to the interactions between all US
+approved drugs and human therapies, defined by known drug-therapy
+relationships. Our results show that the key paths in this network are shorter
+than three steps, indicating that distant therapies are separated by a
+surprisingly low number of chemical compounds. We also identify a sub-network
+composed by drugs with high centrality measures (15), which represent the
+structural back-bone of the drug-therapy system and act as hubs routing
+information between distant parts of the network. These findings provide for
+the first time a global map of the largescale organization of all known drugs
+and associated therapies, bringing new insights on possible strategies for
+future drug development. Special attention should be given to drugs which
+combine the two properties of (a) having a high centrality value and (b) acting
+on multiple targets."
+2004.07782v2,"Network-principled deep generative models for designing drug
+  combinations as graph sets",2020-04-16T17:22:39Z,"Mostafa Karimi, Arman Hasanzadeh, Yang shen",http://arxiv.org/abs/2004.07782v2,http://arxiv.org/pdf/2004.07782v2,No journal ref found,No comment found,"Combination therapy has shown to improve therapeutic efficacy while reducing
+side effects. Importantly, it has become an indispensable strategy to overcome
+resistance in antibiotics, anti-microbials, and anti-cancer drugs. Facing
+enormous chemical space and unclear design principles for small-molecule
+combinations, the computational drug-combination design has not seen generative
+models to meet its potential to accelerate resistance-overcoming drug
+combination discovery. We have developed the first deep generative model for
+drug combination design, by jointly embedding graph-structured domain knowledge
+and iteratively training a reinforcement learning-based chemical graph-set
+designer. First, we have developed Hierarchical Variational Graph Auto-Encoders
+(HVGAE) trained end-to-end to jointly embed gene-gene, gene-disease, and
+disease-disease networks. Novel attentional pooling is introduced here for
+learning disease-representations from associated genes' representations.
+Second, targeting diseases in learned representations, we have recast the
+drug-combination design problem as graph-set generation and developed a deep
+learning-based model with novel rewards. Specifically, besides chemical
+validity rewards, we have introduced a novel generative adversarial award,
+being generalized sliced Wasserstein, for chemically diverse molecules with
+distributions similar to known drugs. We have also designed a network
+principle-based reward for drug combinations. Numerical results indicate that,
+compared to graph embedding methods, HVGAE learns more informative and
+generalizable disease representations. Case studies on four diseases show that
+network-principled drug combinations tend to have low toxicity. The generated
+drug combinations collectively cover the disease module similar to FDA-approved
+drug combinations and could potentially suggest novel systems-pharmacology
+strategies."
+2107.02467v1,"DeepDDS: deep graph neural network with attention mechanism to predict
+  synergistic drug combinations",2021-07-06T08:25:43Z,"J. Wang, X. Liu, S. Shen, L. Deng, H. Liu*",http://arxiv.org/abs/2107.02467v1,http://arxiv.org/pdf/2107.02467v1,No journal ref found,No comment found,"Drug combination therapy has become a increasingly promising method in the
+treatment of cancer. However, the number of possible drug combinations is so
+huge that it is hard to screen synergistic drug combinations through wet-lab
+experiments. Therefore, computational screening has become an important way to
+prioritize drug combinations. Graph neural network have recently shown
+remarkable performance in the prediction of compound-protein interactions, but
+it has not been applied to the screening of drug combinations. In this paper,
+we proposed a deep learning model based on graph neural networks and attention
+mechanism to identify drug combinations that can effectively inhibit the
+viability of specific cancer cells. The feature embeddings of drug molecule
+structure and gene expression profiles were taken as input to multi-layer
+feedforward neural network to identify the synergistic drug combinations. We
+compared DeepDDS with classical machine learning methods and other deep
+learning-based methods on benchmark data set, and the leave-one-out
+experimental results showed that DeepDDS achieved better performance than
+competitive methods. Also, on an independent test set released by well-known
+pharmaceutical enterprise AstraZeneca, DeepDDS was superior to competitive
+methods by more than 16\% predictive precision. Furthermore, we explored the
+interpretability of the graph attention network, and found the correlation
+matrix of atomic features revealed important chemical substructures of drugs.
+We believed that DeepDDS is an effective tool that prioritized synergistic drug
+combinations for further wet-lab experiment validation."
+1811.07054v1,"Synergistic Drug Combination Prediction by Integrating Multi-omics Data
+  in Deep Learning Models",2018-11-16T22:40:06Z,"Tianyu Zhang, Liwei Zhang, Philip R. O. Payne, Fuhai Li",http://arxiv.org/abs/1811.07054v1,http://arxiv.org/pdf/1811.07054v1,No journal ref found,No comment found,"Drug resistance is still a major challenge in cancer therapy. Drug
+combination is expected to overcome drug resistance. However, the number of
+possible drug combinations is enormous, and thus it is infeasible to
+experimentally screen all effective drug combinations considering the limited
+resources. Therefore, computational models to predict and prioritize effective
+drug combinations is important for combinatory therapy discovery in cancer. In
+this study, we proposed a novel deep learning model, AuDNNsynergy, to
+prediction drug combinations by integrating multi-omics data and chemical
+structure data. In specific, three autoencoders were trained using the gene
+expression, copy number and genetic mutation data of all tumor samples from The
+Cancer Genome Atlas. Then the physicochemical properties of drugs combined with
+the output of the three autoencoders, characterizing the individual cancer
+cell-lines, were used as the input of a deep neural network that predicts the
+synergy value of given pair-wise drug combinations against the specific cancer
+cell-lines. The comparison results showed the proposed AuDNNsynergy model
+outperforms four state-of-art approaches, namely DeepSynergy, Gradient Boosting
+Machines, Random Forests, and Elastic Nets. Moreover, we conducted the
+interpretation analysis of the deep learning model to investigate potential
+vital genetic predictors and the underlying mechanism of synergistic drug
+combinations on specific cancer cell-lines."
+2001.03058v1,"Mathematical modelling of drug delivery from pH-responsive
+  nanocontainers",2019-12-22T11:12:24Z,"G. Pontrelli, G. Toniolo, S. McGinty, D. Peri, S. Succi, C. Chatgilialoglu",http://arxiv.org/abs/2001.03058v1,http://arxiv.org/pdf/2001.03058v1,No journal ref found,No comment found,"Drug delivery systems represent a promising strategy to treat cancer and to
+overcome the side effects of chemotherapy. In particular, polymeric
+nanocontainers have attracted major interest because of their structural and
+morphological advantages and the variety of polymers that can be used, allowing
+the synthesis of materials capable of responding to the biochemical alterations
+of the tumour microenvironment. While experimental methodologies can provide
+much insight, the generation of experimental data across a wide parameter space
+is usually prohibitively time consuming and/or expensive. To better understand
+the influence of varying design parameters on the drug release profile and drug
+kinetics involved, appropriately-designed mathematical models are of great
+benefit. Here, we developed a novel mathematical model to describe drug
+transport within, and release from, a hollow nanocontainer consisting of a core
+and a pH-responsive polymeric shell. The two-layer mathematical model fully
+accounts for drug dissolution, diffusion and interaction with polymer. We
+generated experimental drug release profiles using daunorubicin and
+[Cu(TPMA)(Phenantroline)](ClO_4)_2 as model drugs, for which the nanocontainers
+exhibited excellent encapsulation ability. The in vitro drug release behaviour
+was studied under different conditions, where the system proved capable of
+responding to the selected pH stimuli by releasing a larger amount of drug in
+an acidic than in the physiological environments. By comparing the results of
+the mathematical model with our experimental data, we were able to identify the
+model parameter values that best-fit the data and demonstrate that the model is
+capable of describing the phenomena at hand. The proposed methodology can be
+used to describe and predict the release profiles for a variety of drug
+delivery systems."
+2207.04457v1,"TCR: A Transformer Based Deep Network for Predicting Cancer Drugs
+  Response",2022-07-10T13:01:54Z,"Jie Gao, Jing Hu, Wanqing Sun, Yili Shen, Xiaonan Zhang, Xiaomin Fang, Fan Wang, Guodong Zhao",http://arxiv.org/abs/2207.04457v1,http://arxiv.org/pdf/2207.04457v1,No journal ref found,"11 pages,7 figures","Predicting clinical outcomes to anti-cancer drugs on a personalized basis is
+challenging in cancer treatment due to the heterogeneity of tumors. Traditional
+computational efforts have been made to model the effect of drug response on
+individual samples depicted by their molecular profile, yet overfitting occurs
+because of the high dimension for omics data, hindering models from clinical
+application. Recent research shows that deep learning is a promising approach
+to build drug response models by learning alignment patterns between drugs and
+samples. However, existing studies employed the simple feature fusion strategy
+and only considered the drug features as a whole representation while ignoring
+the substructure information that may play a vital role when aligning drugs and
+genes. Hereby in this paper, we propose TCR (Transformer based network for
+Cancer drug Response) to predict anti-cancer drug response. By utilizing an
+attention mechanism, TCR is able to learn the interactions between drug
+atom/sub-structure and molecular signatures efficiently in our study.
+Furthermore, a dual loss function and cross sampling strategy were designed to
+improve the prediction power of TCR. We show that TCR outperformed all other
+methods under various data splitting strategies on all evaluation matrices
+(some with significant improvement). Extensive experiments demonstrate that TCR
+shows significantly improved generalization ability on independent in-vitro
+experiments and in-vivo real patient data. Our study highlights the prediction
+power of TCR and its potential value for cancer drug repurpose and precision
+oncology treatment."
+2412.19589v1,"ViDTA: Enhanced Drug-Target Affinity Prediction via Virtual Graph Nodes
+  and Attention-based Feature Fusion",2024-12-27T11:19:10Z,"Minghui Li, Zikang Guo, Yang Wu, Peijin Guo, Yao Shi, Shengshan Hu, Wei Wan, Shengqing Hu",http://arxiv.org/abs/2412.19589v1,http://arxiv.org/pdf/2412.19589v1,No journal ref found,"Accepted by International Conference on Bioinformatics and
+  Biomedicine (BIBM 24)","Drug-target interaction is fundamental in understanding how drugs affect
+biological systems, and accurately predicting drug-target affinity (DTA) is
+vital for drug discovery. Recently, deep learning methods have emerged as a
+significant approach for estimating the binding strength between drugs and
+target proteins. However, existing methods simply utilize the drug's local
+information from molecular topology rather than global information.
+Additionally, the features of drugs and proteins are usually fused with a
+simple concatenation operation, limiting their effectiveness. To address these
+challenges, we proposed ViDTA, an enhanced DTA prediction framework. We
+introduce virtual nodes into the Graph Neural Network (GNN)-based drug feature
+extraction network, which acts as a global memory to exchange messages more
+efficiently. By incorporating virtual graph nodes, we seamlessly integrate
+local and global features of drug molecular structures, expanding the GNN's
+receptive field. Additionally, we propose an attention-based linear feature
+fusion network for better capturing the interaction information between drugs
+and proteins. Experimental results evaluated on various benchmarks including
+Davis, Metz, and KIBA demonstrate that our proposed ViDTA outperforms the
+state-of-the-art baselines."
+2111.05708v2,"STNN-DDI: A Substructure-aware Tensor Neural Network to Predict
+  Drug-Drug Interactions",2021-11-10T14:32:42Z,"Hui Yu, ShiYu Zhao, JianYu Shi",http://arxiv.org/abs/2111.05708v2,http://arxiv.org/pdf/2111.05708v2,No journal ref found,No comment found,"Motivation: Computational prediction of multiple-type drug-drug interaction
+(DDI) helps reduce unexpected side effects in poly-drug treatments. Although
+existing computational approaches achieve inspiring results, they ignore that
+the action of a drug is mainly caused by its chemical substructures. In
+addition, their interpretability is still weak. Results: In this paper, by
+supposing that the interactions between two given drugs are caused by their
+local chemical structures (sub-structures) and their DDI types are determined
+by the linkages between different substructure sets, we design a novel
+Substructure-ware Tensor Neural Network model for DDI prediction (STNN-DDI).
+The proposed model learns a 3-D tensor of (substructure, in-teraction type,
+substructure) triplets, which characterizes a substructure-substructure
+interaction (SSI) space. According to a list of predefined substructures with
+specific chemical meanings, the mapping of drugs into this SSI space enables
+STNN-DDI to perform the multiple-type DDI prediction in both transductive and
+inductive scenarios in a unified form with an explicable manner. The
+compar-ison with deep learning-based state-of-the-art baselines demonstrates
+the superiority of STNN-DDI with the significant improvement of AUC, AUPR,
+Accuracy, and Precision. More importantly, case studies illustrate its
+interpretability by both revealing a crucial sub-structure pair across drugs
+regarding a DDI type of interest and uncovering interaction type-specific
+substructure pairs in a given DDI. In summary, STNN-DDI provides an effective
+approach to predicting DDIs as well as explaining the interaction mechanisms
+among drugs."
+2212.10714v1,"Integrating Heterogeneous Domain Information into Relation Extraction: A
+  Case Study on Drug-Drug Interaction Extraction",2022-12-21T01:26:07Z,Masaki Asada,http://arxiv.org/abs/2212.10714v1,http://arxiv.org/pdf/2212.10714v1,No journal ref found,PhD Thesis,"The development of deep neural networks has improved representation learning
+in various domains, including textual, graph structural, and relational triple
+representations. This development opened the door to new relation extraction
+beyond the traditional text-oriented relation extraction. However, research on
+the effectiveness of considering multiple heterogeneous domain information
+simultaneously is still under exploration, and if a model can take an advantage
+of integrating heterogeneous information, it is expected to exhibit a
+significant contribution to many problems in the world. This thesis works on
+Drug-Drug Interactions (DDIs) from the literature as a case study and realizes
+relation extraction utilizing heterogeneous domain information. First, a deep
+neural relation extraction model is prepared and its attention mechanism is
+analyzed. Next, a method to combine the drug molecular structure information
+and drug description information to the input sentence information is proposed,
+and the effectiveness of utilizing drug molecular structures and drug
+descriptions for the relation extraction task is shown. Then, in order to
+further exploit the heterogeneous information, drug-related items, such as
+protein entries, medical terms and pathways are collected from multiple
+existing databases and a new data set in the form of a knowledge graph (KG) is
+constructed. A link prediction task on the constructed data set is conducted to
+obtain embedding representations of drugs that contain the heterogeneous domain
+information. Finally, a method that integrates the input sentence information
+and the heterogeneous KG information is proposed. The proposed model is trained
+and evaluated on a widely used data set, and as a result, it is shown that
+utilizing heterogeneous domain information significantly improves the
+performance of relation extraction from the literature."
+1910.02107v2,"GENN: Predicting Correlated Drug-drug Interactions with Graph Energy
+  Neural Networks",2019-10-04T19:03:12Z,"Tengfei Ma, Junyuan Shang, Cao Xiao, Jimeng Sun",http://arxiv.org/abs/1910.02107v2,http://arxiv.org/pdf/1910.02107v2,No journal ref found,No comment found,"Gaining more comprehensive knowledge about drug-drug interactions (DDIs) is
+one of the most important tasks in drug development and medical practice.
+Recently graph neural networks have achieved great success in this task by
+modeling drugs as nodes and drug-drug interactions as links and casting DDI
+predictions as link prediction problems. However, correlations between link
+labels (e.g., DDI types) were rarely considered in existing works. We propose
+the graph energy neural network (GENN) to explicitly model link type
+correlations. We formulate the DDI prediction task as a structure prediction
+problem and introduce a new energy-based model where the energy function is
+defined by graph neural networks. Experiments on two real-world DDI datasets
+demonstrated that GENN is superior to many baselines without consideration of
+link type correlations and achieved $13.77\%$ and $5.01\%$ PR-AUC improvement
+on the two datasets, respectively. We also present a case study in which \mname
+can better capture meaningful DDI correlations compared with baseline models."
+2007.10261v1,"Few-shot link prediction via graph neural networks for Covid-19
+  drug-repurposing",2020-07-20T16:48:51Z,"Vassilis N. Ioannidis, Da Zheng, George Karypis",http://arxiv.org/abs/2007.10261v1,http://arxiv.org/pdf/2007.10261v1,No journal ref found,No comment found,"Predicting interactions among heterogenous graph structured data has numerous
+applications such as knowledge graph completion, recommendation systems and
+drug discovery. Often times, the links to be predicted belong to rare types
+such as the case in repurposing drugs for novel diseases. This motivates the
+task of few-shot link prediction. Typically, GCNs are ill-equipped in learning
+such rare link types since the relation embedding is not learned in an
+inductive fashion. This paper proposes an inductive RGCN for learning
+informative relation embeddings even in the few-shot learning regime. The
+proposed inductive model significantly outperforms the RGCN and
+state-of-the-art KGE models in few-shot learning tasks. Furthermore, we apply
+our method on the drug-repurposing knowledge graph (DRKG) for discovering drugs
+for Covid-19. We pose the drug discovery task as link prediction and learn
+embeddings for the biological entities that partake in the DRKG. Our initial
+results corroborate that several drugs used in clinical trials were identified
+as possible drug candidates. The method in this paper are implemented using the
+efficient deep graph learning (DGL)"
+2010.11711v3,"Multi-view Graph Contrastive Representation Learning for Drug-Drug
+  Interaction Prediction",2020-10-22T13:37:19Z,"Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu",http://arxiv.org/abs/2010.11711v3,http://arxiv.org/pdf/2010.11711v3,No journal ref found,In Proceedings of the Web Conference 2021 (WWW '21),"Drug-drug interaction(DDI) prediction is an important task in the medical
+health machine learning community. This study presents a new method, multi-view
+graph contrastive representation learning for drug-drug interaction prediction,
+MIRACLE for brevity, to capture inter-view molecule structure and intra-view
+interactions between molecules simultaneously. MIRACLE treats a DDI network as
+a multi-view graph where each node in the interaction graph itself is a drug
+molecular graph instance. We use GCNs and bond-aware attentive message passing
+networks to encode DDI relationships and drug molecular graphs in the MIRACLE
+learning stage, respectively. Also, we propose a novel unsupervised contrastive
+learning component to balance and integrate the multi-view information.
+Comprehensive experiments on multiple real datasets show that MIRACLE
+outperforms the state-of-the-art DDI prediction models consistently."
+2403.12984v2,"When SMILES have Language: Drug Classification using Text Classification
+  Methods on Drug SMILES Strings",2024-03-03T11:09:32Z,"Azmine Toushik Wasi, Šerbetar Karlo, Raima Islam, Taki Hasan Rafi, Dong-Kyu Chae",http://arxiv.org/abs/2403.12984v2,http://arxiv.org/pdf/2403.12984v2,"The Second Tiny Papers Track at {ICLR} 2024, Tiny Papers @ {ICLR}
+  2024, Vienna Austria, May 11, 2024","7 pages, 2 figures, 5 tables, Accepted (invited to present) to the
+  The Second Tiny Papers Track at ICLR 2024
+  (https://openreview.net/forum?id=VUYCyH8fCw)","Complex chemical structures, like drugs, are usually defined by SMILES
+strings as a sequence of molecules and bonds. These SMILES strings are used in
+different complex machine learning-based drug-related research and
+representation works. Escaping from complex representation, in this work, we
+pose a single question: What if we treat drug SMILES as conventional sentences
+and engage in text classification for drug classification? Our experiments
+affirm the possibility with very competitive scores. The study explores the
+notion of viewing each atom and bond as sentence components, employing basic
+NLP methods to categorize drug types, proving that complex problems can also be
+solved with simpler perspectives. The data and code are available here:
+https://github.com/azminewasi/Drug-Classification-NLP."
+2503.23550v1,"Addressing Model Overcomplexity in Drug-Drug Interaction Prediction With
+  Molecular Fingerprints",2025-03-30T18:27:01Z,"Manel Gil-Sorribes, Alexis Molina",http://arxiv.org/abs/2503.23550v1,http://arxiv.org/pdf/2503.23550v1,No journal ref found,Accepted to the GEM Workshop at ICLR 2025,"Accurately predicting drug-drug interactions (DDIs) is crucial for
+pharmaceutical research and clinical safety. Recent deep learning models often
+suffer from high computational costs and limited generalization across
+datasets. In this study, we investigate a simpler yet effective approach using
+molecular representations such as Morgan fingerprints (MFPS), graph-based
+embeddings from graph convolutional networks (GCNs), and transformer-derived
+embeddings from MoLFormer integrated into a straightforward neural network. We
+benchmark our implementation on DrugBank DDI splits and a drug-drug affinity
+(DDA) dataset from the Food and Drug Administration. MFPS along with MoLFormer
+and GCN representations achieve competitive performance across tasks, even in
+the more challenging leak-proof split, highlighting the sufficiency of simple
+molecular representations. Moreover, we are able to identify key molecular
+motifs and structural patterns relevant to drug interactions via gradient-based
+analyses using the representations under study. Despite these results, dataset
+limitations such as insufficient chemical diversity, limited dataset size, and
+inconsistent labeling impact robust evaluation and challenge the need for more
+complex approaches. Our work provides a meaningful baseline and emphasizes the
+need for better dataset curation and progressive complexity scaling."
+2505.20218v1,"Fine-grained List-wise Alignment for Generative Medication
+  Recommendation",2025-05-26T16:59:23Z,"Chenxiao Fan, Chongming Gao, Wentao Shi, Yaxin Gong, Zihao Zhao, Fuli Feng",http://arxiv.org/abs/2505.20218v1,http://arxiv.org/pdf/2505.20218v1,No journal ref found,No comment found,"Accurate and safe medication recommendations are critical for effective
+clinical decision-making, especially in multimorbidity cases. However, existing
+systems rely on point-wise prediction paradigms that overlook synergistic drug
+effects and potential adverse drug-drug interactions (DDIs). We propose FLAME,
+a fine-grained list-wise alignment framework for large language models (LLMs),
+enabling drug-by-drug generation of drug lists. FLAME formulates recommendation
+as a sequential decision process, where each step adds or removes a single
+drug. To provide fine-grained learning signals, we devise step-wise Group
+Relative Policy Optimization (GRPO) with potential-based reward shaping, which
+explicitly models DDIs and optimizes the contribution of each drug to the
+overall prescription. Furthermore, FLAME enhances patient modeling by
+integrating structured clinical knowledge and collaborative information into
+the representation space of LLMs. Experiments on benchmark datasets demonstrate
+that FLAME achieves state-of-the-art performance, delivering superior accuracy,
+controllable safety-accuracy trade-offs, and strong generalization across
+diverse clinical scenarios. Our code is available at
+https://github.com/cxfann/Flame."
+1210.0330v3,"Structure and dynamics of molecular networks: A novel paradigm of drug
+  discovery. A comprehensive review",2012-10-01T10:01:56Z,"Peter Csermely, Tamas Korcsmaros, Huba J. M. Kiss, Gabor London, Ruth Nussinov",http://arxiv.org/abs/1210.0330v3,http://arxiv.org/pdf/1210.0330v3,Pharmacology and Therapeutics 138:333-408 (2013),"76 pages, 23 Figures, 12 Tables and 1270 references","Despite considerable progress in genome- and proteome-based high-throughput
+screening methods and in rational drug design, the increase in approved drugs
+in the past decade did not match the increase of drug development costs.
+Network description and analysis not only give a systems-level understanding of
+drug action and disease complexity, but can also help to improve the efficiency
+of drug design. We give a comprehensive assessment of the analytical tools of
+network topology and dynamics. The state-of-the-art use of chemical similarity,
+protein structure, protein-protein interaction, signaling, genetic interaction
+and metabolic networks in the discovery of drug targets is summarized. We
+propose that network targeting follows two basic strategies. The central hit
+strategy selectively targets central nodes/edges of the flexible networks of
+infectious agents or cancer cells to kill them. The network influence strategy
+works against other diseases, where an efficient reconfiguration of rigid
+networks needs to be achieved by targeting the neighbors of central nodes or
+edges. It is shown how network techniques can help in the identification of
+single-target, edgetic, multi-target and allo-network drug target candidates.
+We review the recent boom in network methods helping hit identification, lead
+selection optimizing drug efficacy, as well as minimizing side-effects and drug
+toxicity. Successful network-based drug development strategies are shown
+through the examples of infections, cancer, metabolic diseases,
+neurodegenerative diseases and aging. Summarizing more than 1200 references we
+suggest an optimized protocol of network-aided drug development, and provide a
+list of systems-level hallmarks of drug quality. Finally, we highlight
+network-related drug development trends helping to achieve these hallmarks by a
+cohesive, global approach."
+0904.2749v1,Smectic Polymer Vesicles,2009-04-17T17:25:09Z,"Lin Jia, Amin Cao, Daniel Levy, Bing Xu, Pierre-Antoine Albouy, Xiangjun Xing, Mark J. Bowick, Min-Hui Li",http://arxiv.org/abs/0904.2749v1,http://arxiv.org/pdf/0904.2749v1,Soft Matter 5 (2009) 3446-3451,"17 pages, 4 figures, pdf","Polymer vesicles are stable robust vesicles made from block copolymer
+amphiphiles. Recent progress in the chemical design of block copolymers opens
+up the exciting possibility of creating a wide variety of polymer vesicles with
+varying fine structure, functionality and geometry. Polymer vesicles not only
+constitute useful systems for drug delivery and micro/nano-reactors but also
+provide an invaluable arena for exploring the ordering of matter on curved
+surfaces embedded in three dimensions. By choosing suitable liquid-crystalline
+polymers for one of the copolymer components one can create vesicles with
+smectic stripes. Smectic order on shapes of spherical topology inevitably
+possesses topological defects (disclinations) that are themselves distinguished
+regions for potential chemical functionalization and nucleators of vesicle
+budding. Here we report on glassy striped polymer vesicles formed from
+amphiphilic block copolymers in which the hydrophobic block is a smectic liquid
+crystal polymer containing cholesteryl-based mesogens. The vesicles exhibit
+two-dimensional smectic order and are ellipsoidal in shape with defects, or
+possible additional budding into isotropic vesicles, at the poles."
+2206.13473v1,"Metal-Organic Frameworks in Semiconductor Devices: Recent Advancements
+  and a Bright Future",2022-06-27T17:26:54Z,"Ranjeev Kumar Parashar, Priyajit Jash, Prakash Chandra Mondal",http://arxiv.org/abs/2206.13473v1,http://arxiv.org/pdf/2206.13473v1,No journal ref found,No comment found,"Metal-organic frameworks (MOFs) symbolize the particular class of hybrid
+crystalline, nano-porous materials made of either discrete metal ions or
+clusters with organic linkers. Past studies on MOFs-based materials largely
+focused on porosity, chemical and structural diversity, gas sorption, sensing,
+drug delivery, catalysis, and separation applications. However, initial efforts
+either neglected or have not gained much attention to refine the electrical
+conductivity of MOFs materials. MOFs reported earlier with poor electrical
+conductivity impeded to employ in electronics, optoelectronics, and renewable
+energy storage applications. To overcome this issue, the MOFs community has
+been engaged in improving electrical conductivity by adopting several
+intriguing strategies. We shed light on the charge transport mechanisms which
+are mainly two processes, either through a bond or through space. This review
+aims to showcase the current scenario on creatively designed MOF materials
+followed by fabrication advancement of high-quality molecular thin films, and
+semiconductor device fabrication for stimuli-responsive current-voltage (I-V)
+studies. Overall, the review addresses the pros and cons of the MOFs-based
+electronics, followed by our prediction on improvement MOFs composition,
+mechanically stable interfaces, device stacking, further relevant experiments
+which can be of great interest to the MOFs researchers in improving further
+devices performances."
+1705.05183v2,Representation learning of drug and disease terms for drug repositioning,2017-05-15T12:29:52Z,"Sahil Manchanda, Ashish Anand",http://arxiv.org/abs/1705.05183v2,http://arxiv.org/pdf/1705.05183v2,No journal ref found,"Accepted to appear in 3rd IEEE International Conference on
+  Cybernetics (Spl Session: Deep Learning for Prediction and Estimation)","Drug repositioning (DR) refers to identification of novel indications for the
+approved drugs. The requirement of huge investment of time as well as money and
+risk of failure in clinical trials have led to surge in interest in drug
+repositioning. DR exploits two major aspects associated with drugs and
+diseases: existence of similarity among drugs and among diseases due to their
+shared involved genes or pathways or common biological effects. Existing
+methods of identifying drug-disease association majorly rely on the information
+available in the structured databases only. On the other hand, abundant
+information available in form of free texts in biomedical research articles are
+not being fully exploited. Word-embedding or obtaining vector representation of
+words from a large corpora of free texts using neural network methods have been
+shown to give significant performance for several natural language processing
+tasks. In this work we propose a novel way of representation learning to obtain
+features of drugs and diseases by combining complementary information available
+in unstructured texts and structured datasets. Next we use matrix completion
+approach on these feature vectors to learn projection matrix between drug and
+disease vector spaces. The proposed method has shown competitive performance
+with state-of-the-art methods. Further, the case studies on Alzheimer's and
+Hypertension diseases have shown that the predicted associations are matching
+with the existing knowledge."
+2105.02711v2,"SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and
+  Safe Drug Combinations",2021-05-05T00:20:48Z,"Chaoqi Yang, Cao Xiao, Fenglong Ma, Lucas Glass, Jimeng Sun",http://arxiv.org/abs/2105.02711v2,http://arxiv.org/pdf/2105.02711v2,No journal ref found,"Accepted in IJCAI 2021, this is the full version with appendix","Medication recommendation is an essential task of AI for healthcare. Existing
+works focused on recommending drug combinations for patients with complex
+health conditions solely based on their electronic health records. Thus, they
+have the following limitations: (1) some important data such as drug molecule
+structures have not been utilized in the recommendation process. (2) drug-drug
+interactions (DDI) are modeled implicitly, which can lead to sub-optimal
+results. To address these limitations, we propose a DDI-controllable drug
+recommendation model named SafeDrug to leverage drugs' molecule structures and
+model DDIs explicitly. SafeDrug is equipped with a global message passing
+neural network (MPNN) module and a local bipartite learning module to fully
+encode the connectivity and functionality of drug molecules. SafeDrug also has
+a controllable loss function to control DDI levels in the recommended drug
+combinations effectively. On a benchmark dataset, our SafeDrug is relatively
+shown to reduce DDI by 19.43% and improves 2.88% on Jaccard similarity between
+recommended and actually prescribed drug combinations over previous approaches.
+Moreover, SafeDrug also requires much fewer parameters than previous deep
+learning-based approaches, leading to faster training by about 14% and around
+2x speed-up in inference."
+2406.01651v3,"FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for
+  Drug-Target Interaction",2024-06-03T14:48:54Z,"Zhaohan Meng, Zaiqiao Meng, Ke Yuan, Iadh Ounis",http://arxiv.org/abs/2406.01651v3,http://arxiv.org/pdf/2406.01651v3,No journal ref found,"10 pages, 8 figures","Predicting drug-target interaction (DTI) is critical in the drug discovery
+process. Despite remarkable advances in recent DTI models through the
+integration of representations from diverse drug and target encoders, such
+models often struggle to capture the fine-grained interactions between drugs
+and protein, i.e. the binding of specific drug atoms (or substructures) and key
+amino acids of proteins, which is crucial for understanding the binding
+mechanisms and optimising drug design. To address this issue, this paper
+introduces a novel model, called FusionDTI, which uses a token-level Fusion
+module to effectively learn fine-grained information for Drug-Target
+Interaction. In particular, our FusionDTI model uses the SELFIES representation
+of drugs to mitigate sequence fragment invalidation and incorporates the
+structure-aware (SA) vocabulary of target proteins to address the limitation of
+amino acid sequences in structural information, additionally leveraging
+pre-trained language models extensively trained on large-scale biomedical
+datasets as encoders to capture the complex information of drugs and targets.
+Experiments on three well-known benchmark datasets show that our proposed
+FusionDTI model achieves the best performance in DTI prediction compared with
+seven existing state-of-the-art baselines. Furthermore, our case study
+indicates that FusionDTI could highlight the potential binding sites, enhancing
+the explainability of the DTI prediction."
+2210.11250v1,Structure-based drug design with geometric deep learning,2022-10-19T16:21:48Z,"Clemens Isert, Kenneth Atz, Gisbert Schneider",http://arxiv.org/abs/2210.11250v1,http://arxiv.org/pdf/2210.11250v1,No journal ref found,No comment found,"Structure-based drug design uses three-dimensional geometric information of
+macromolecules, such as proteins or nucleic acids, to identify suitable
+ligands. Geometric deep learning, an emerging concept of neural-network-based
+machine learning, has been applied to macromolecular structures. This review
+provides an overview of the recent applications of geometric deep learning in
+bioorganic and medicinal chemistry, highlighting its potential for
+structure-based drug discovery and design. Emphasis is placed on molecular
+property prediction, ligand binding site and pose prediction, and
+structure-based de novo molecular design. The current challenges and
+opportunities are highlighted, and a forecast of the future of geometric deep
+learning for drug discovery is presented."
+2212.10788v2,"GraphIX: Graph-based In silico XAI(explainable artificial intelligence)
+  for drug repositioning from biopharmaceutical network",2022-12-21T06:17:45Z,"Atsuko Takagi, Mayumi Kamada, Eri Hamatani, Ryosuke Kojima, Yasushi Okuno",http://arxiv.org/abs/2212.10788v2,http://arxiv.org/pdf/2212.10788v2,No journal ref found,add supplementary materials,"Drug repositioning holds great promise because it can reduce the time and
+cost of new drug development. While drug repositioning can omit various R&D
+processes, confirming pharmacological effects on biomolecules is essential for
+application to new diseases. Biomedical explainability in a drug repositioning
+model can support appropriate insights in subsequent in-depth studies. However,
+the validity of the XAI methodology is still under debate, and the
+effectiveness of XAI in drug repositioning prediction applications remains
+unclear. In this study, we propose GraphIX, an explainable drug repositioning
+framework using biological networks, and quantitatively evaluate its
+explainability. GraphIX first learns the network weights and node features
+using a graph neural network from known drug indication and knowledge graph
+that consists of three types of nodes (but not given node type information):
+disease, drug, and protein. Analysis of the post-learning features showed that
+node types that were not known to the model beforehand are distinguished
+through the learning process based on the graph structure. From the learned
+weights and features, GraphIX then predicts the disease-drug association and
+calculates the contribution values of the nodes located in the neighborhood of
+the predicted disease and drug. We hypothesized that the neighboring protein
+node to which the model gave a high contribution is important in understanding
+the actual pharmacological effects. Quantitative evaluation of the validity of
+protein nodes' contribution using a real-world database showed that the high
+contribution proteins shown by GraphIX are reasonable as a mechanism of drug
+action. GraphIX is a framework for evidence-based drug discovery that can
+present to users new disease-drug associations and identify the protein
+important for understanding its pharmacological effects from a large and
+complex knowledge base."
+2211.16871v1,"A Deep Learning Approach to the Prediction of Drug Side-Effects on
+  Molecular Graphs",2022-11-30T10:12:41Z,"Pietro Bongini, Elisa Messori, Niccolò Pancino, Monica Bianchini",http://arxiv.org/abs/2211.16871v1,http://arxiv.org/pdf/2211.16871v1,No journal ref found,"16 pages, 2 figures, under review","Predicting drug side-effects before they occur is a key task in keeping the
+number of drug-related hospitalizations low and to improve drug discovery
+processes. Automatic predictors of side-effects generally are not able to
+process the structure of the drug, resulting in a loss of information. Graph
+neural networks have seen great success in recent years, thanks to their
+ability of exploiting the information conveyed by the graph structure and
+labels. These models have been used in a wide variety of biological
+applications, among which the prediction of drug side-effects on a large
+knowledge graph. Exploiting the molecular graph encoding the structure of the
+drug represents a novel approach, in which the problem is formulated as a
+multi-class multi-label graph-focused classification. We developed a
+methodology to carry out this task, using recurrent Graph Neural Networks, and
+building a dataset from freely accessible and well established data sources.
+The results show that our method has an improved classification capability,
+under many parameters and metrics, with respect to previously available
+predictors."
+2309.12906v1,"Building explainable graph neural network by sparse learning for the
+  drug-protein binding prediction",2023-08-27T02:20:30Z,"Yang Wang, Zanyu Shi, Timothy Richardson, Kun Huang, Pathum Weerawarna, Yijie Wang",http://arxiv.org/abs/2309.12906v1,http://arxiv.org/pdf/2309.12906v1,No journal ref found,No comment found,"Explainable Graph Neural Networks (GNNs) have been developed and applied to
+drug-protein binding prediction to identify the key chemical structures in a
+drug that have active interactions with the target proteins. However, the key
+structures identified by the current explainable GNN models are typically
+chemically invalid. Furthermore, a threshold needs to be manually selected to
+pinpoint the key structures from the rest. To overcome the limitations of the
+current explainable GNN models, we propose our SLGNN, which stands for using
+Sparse Learning to Graph Neural Networks. Our SLGNN relies on using a
+chemical-substructure-based graph (where nodes are chemical substructures) to
+represent a drug molecule. Furthermore, SLGNN incorporates generalized fussed
+lasso with message-passing algorithms to identify connected subgraphs that are
+critical for the drug-protein binding prediction. Due to the use of the
+chemical-substructure-based graph, it is guaranteed that any subgraphs in a
+drug identified by our SLGNN are chemically valid structures. These structures
+can be further interpreted as the key chemical structures for the drug to bind
+to the target protein. We demonstrate the explanatory power of our SLGNN by
+first showing all the key structures identified by our SLGNN are chemically
+valid. In addition, we illustrate that the key structures identified by our
+SLGNN have more predictive power than the key structures identified by the
+competing methods. At last, we use known drug-protein binding data to show the
+key structures identified by our SLGNN contain most of the binding sites."
+2107.02905v2,"An in silico drug repurposing pipeline to identify drugs with the
+  potential to inhibit SARS-CoV-2 replication",2021-07-05T13:08:24Z,"Méabh MacMahon, Woochang Hwang, Soorin Yim, Eoghan MacMahon, Alexandre Abraham, Justin Barton, Mukunthan Tharmakulasingam, Paul Bilokon, Vasanthi Priyadarshini Gaddi, Namshik Han",http://arxiv.org/abs/2107.02905v2,http://arxiv.org/pdf/2107.02905v2,Informatics in Medicine Unlocked (2023): 101387,"23 pages, 4 figures","Drug repurposing provides an opportunity to redeploy drugs, which ideally are
+already approved for use in humans, for the treatment of other diseases. For
+example, the repurposing of dexamethasone and baricitinib has played a crucial
+role in saving patient lives during the ongoing SARS-CoV-2 pandemic. There
+remains a need to expand therapeutic approaches to prevent life-threatening
+complications in patients with COVID-19. Using an in silico approach based on
+structural similarity to drugs already in clinical trials for COVID-19,
+potential drugs were predicted for repurposing. For a subset of identified
+drugs with different targets to their corresponding COVID-19 clinical trial
+drug, a mechanism of action analysis was applied to establish whether they
+might have a role in inhibiting the replication of SARS-CoV-2. Of sixty drugs
+predicted in this study, two with the potential to inhibit SARS-CoV-2
+replication were identified using mechanism of action analysis. Triamcinolone
+is a corticosteroid that is structurally similar to dexamethasone; gallopamil
+is a calcium channel blocker that is structurally similar to verapamil. In
+silico approaches indicate possible mechanisms of action for both drugs in
+inhibiting SARS-CoV-2 replication. The identification of these drugs as
+potentially useful for patients with COVID-19 who are at a higher risk of
+developing severe disease supports the use of in silico approaches to
+facilitate quick and cost-effective drug repurposing. Such drugs could expand
+the number of treatments available to patients who are not protected by
+vaccination."
+1906.04072v3,A Bayesian Model of Dose-Response for Cancer Drug Studies,2019-06-10T15:26:39Z,"Wesley Tansey, Christopher Tosh, David M. Blei",http://arxiv.org/abs/1906.04072v3,http://arxiv.org/pdf/1906.04072v3,No journal ref found,"Extended to handle covariates; additional benchmarks comparing to
+  related work","Exploratory cancer drug studies test multiple tumor cell lines against
+multiple candidate drugs. The goal in each paired (cell line, drug) experiment
+is to map out the dose-response curve of the cell line as the dose level of the
+drug increases. We propose Bayesian Tensor Filtering (BTF), a hierarchical
+Bayesian model for dose-response modeling in multi-sample, multi-treatment
+cancer drug studies. BTF uses low-dimensional embeddings to share statistical
+strength between similar drugs and similar cell lines. Structured shrinkage
+priors in BTF encourage smoothness in the dose-response curves while remaining
+adaptive to sharp jumps when the data call for it. We focus on a pair of cancer
+drug studies exhibiting a particular pathology in their experimental design,
+leading us to a non-conjugate monotone mixture-of-Gammas likelihood. To perform
+posterior inference, we develop a variant of the elliptical slice sampling
+algorithm for sampling from linearly-constrained multivariate normal priors
+with non-conjugate likelihoods. In benchmarks, BTF outperforms state-of-the-art
+methods for covariance regression and dynamic Poisson matrix factorization. On
+the two cancer drug studies, BTF outperforms the current standard approach in
+biology and reveals potential new biomarkers of drug sensitivity in cancer.
+Code is available at https://github.com/tansey/functionalmf."
+2012.12325v3,"Drug-Target Interaction Prediction via an Ensemble of Weighted Nearest
+  Neighbors with Interaction Recovery",2020-12-22T19:54:18Z,"Bin Liu, Konstantinos Pliakos, Celine Vens, Grigorios Tsoumakas",http://arxiv.org/abs/2012.12325v3,http://arxiv.org/pdf/2012.12325v3,No journal ref found,No comment found,"Predicting drug-target interactions (DTI) via reliable computational methods
+is an effective and efficient way to mitigate the enormous costs and time of
+the drug discovery process. Structure-based drug similarities and
+sequence-based target protein similarities are the commonly used information
+for DTI prediction. Among numerous computational methods, neighborhood-based
+chemogenomic approaches that leverage drug and target similarities to perform
+predictions directly are simple but promising ones. However, existing
+similarity-based methods need to be re-trained to predict interactions for any
+new drugs or targets and cannot directly perform predictions for both new
+drugs, new targets, and new drug-target pairs. Furthermore, a large amount of
+missing (undetected) interactions in current DTI datasets hinders most DTI
+prediction methods. To address these issues, we propose a new method denoted as
+Weighted k-Nearest Neighbor with Interaction Recovery (WkNNIR). Not only can
+WkNNIR estimate interactions of any new drugs and/or new targets without any
+need of re-training, but it can also recover missing interactions (false
+negatives). In addition, WkNNIR exploits local imbalance to promote the
+influence of more reliable similarities on the interaction recovery and
+prediction processes. We also propose a series of ensemble methods that employ
+diverse sampling strategies and could be coupled with WkNNIR as well as any
+other DTI prediction method to improve performance. Experimental results over
+five benchmark datasets demonstrate the effectiveness of our approaches in
+predicting drug-target interactions. Lastly, we confirm the practical
+prediction ability of proposed methods to discover reliable interactions that
+were not reported in the original benchmark datasets."
+2203.11458v1,"Hierarchical Graph Representation Learning for the Prediction of
+  Drug-Target Binding Affinity",2022-03-22T04:50:16Z,"Zhaoyang Chu, Shichao Liu, Wen Zhang",http://arxiv.org/abs/2203.11458v1,http://arxiv.org/pdf/2203.11458v1,No journal ref found,No comment found,"The identification of drug-target binding affinity (DTA) has attracted
+increasing attention in the drug discovery process due to the more specific
+interpretation than binary interaction prediction. Recently, numerous deep
+learning-based computational methods have been proposed to predict the binding
+affinities between drugs and targets benefiting from their satisfactory
+performance. However, the previous works mainly focus on encoding biological
+features and chemical structures of drugs and targets, with a lack of
+exploiting the essential topological information from the drug-target affinity
+network. In this paper, we propose a novel hierarchical graph representation
+learning model for the drug-target binding affinity prediction, namely
+HGRL-DTA. The main contribution of our model is to establish a hierarchical
+graph learning architecture to incorporate the intrinsic properties of
+drug/target molecules and the topological affinities of drug-target pairs. In
+this architecture, we adopt a message broadcasting mechanism to integrate the
+hierarchical representations learned from the global-level affinity graph and
+the local-level molecular graph. Besides, we design a similarity-based
+embedding map to solve the cold start problem of inferring representations for
+unseen drugs and targets. Comprehensive experimental results under different
+scenarios indicate that HGRL-DTA significantly outperforms the state-of-the-art
+models and shows better model generalization among all the scenarios."
+2209.09941v3,Predicting Drug-Drug Interactions using Deep Generative Models on Graphs,2022-09-14T14:27:32Z,"Nhat Khang Ngo, Truong Son Hy, Risi Kondor",http://arxiv.org/abs/2209.09941v3,http://arxiv.org/pdf/2209.09941v3,No journal ref found,No comment found,"Latent representations of drugs and their targets produced by contemporary
+graph autoencoder-based models have proved useful in predicting many types of
+node-pair interactions on large networks, including drug-drug, drug-target, and
+target-target interactions. However, most existing approaches model the node's
+latent spaces in which node distributions are rigid and disjoint; these
+limitations hinder the methods from generating new links among pairs of nodes.
+In this paper, we present the effectiveness of variational graph autoencoders
+(VGAE) in modeling latent node representations on multimodal networks. Our
+approach can produce flexible latent spaces for each node type of the
+multimodal graph; the embeddings are used later for predicting links among node
+pairs under different edge types. To further enhance the models' performance,
+we suggest a new method that concatenates Morgan fingerprints, which capture
+the molecular structures of each drug, with their latent embeddings before
+preceding them to the decoding stage for link prediction. Our proposed model
+shows competitive results on two multimodal networks: (1) a multi-graph
+consisting of drug and protein nodes, and (2) a multi-graph consisting of drug
+and cell line nodes. Our source code is publicly available at
+https://github.com/HySonLab/drug-interactions."
+2303.10312v3,"An Edge-based Graph Transformer Network for Anti-Cancer Drug Synergy
+  Prediction",2023-03-18T02:46:58Z,Jie Hu,http://arxiv.org/abs/2303.10312v3,http://arxiv.org/pdf/2303.10312v3,No journal ref found,8 pages,"Drug combination therapy is a powerful solution for the treatment of complex
+disease such as cancers due to its capability of therapeutic efficacy and
+reducing side effects. Nevertheless, it is very difficult to screen all drug
+combinations by experiments since the vast number of possible combinations.
+Currently, computational methods, especially graph neural networks and
+transformer, have been developed to discover the prioritization of drug
+combinations and shown promising potentials. Despite great achievements have
+been obtained by existing computational models, they all neglected high-order
+semantic information of drugs and the importance of the chemical bond features,
+which contained rich information and is represented by edge of graphs in drug
+predictions. In this work, we present a novel model named EGTSyn (Edge-based
+Graph Transformer network for drug Synergy prediction) for anti-cancer drug
+synergistic effect prediction. We design an EGNN (edge-based graph neural
+network) module and a GTDblock (Graph Transformer for Drugs block). EGNN is
+employed to capture the global structure information of the chemicals as well
+as the importance of chemical bonds that has been neglected by most of the
+previous studies. GTDblock combines the EGNN module with a
+Transformer-architecture encoder to extract high-order semantic information of
+drugs."
+2305.18090v1,"ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain
+  Feedback",2023-05-29T14:43:24Z,"Shengchao Liu, Jiongxiao Wang, Yijin Yang, Chengpeng Wang, Ling Liu, Hongyu Guo, Chaowei Xiao",http://arxiv.org/abs/2305.18090v1,http://arxiv.org/pdf/2305.18090v1,No journal ref found,No comment found,"Recent advancements in conversational large language models (LLMs), such as
+ChatGPT, have demonstrated remarkable promise in various domains, including
+drug discovery. However, existing works mainly focus on investigating the
+capabilities of conversational LLMs on chemical reaction and retrosynthesis.
+While drug editing, a critical task in the drug discovery pipeline, remains
+largely unexplored. To bridge this gap, we propose ChatDrug, a framework to
+facilitate the systematic investigation of drug editing using LLMs. ChatDrug
+jointly leverages a prompt module, a retrieval and domain feedback (ReDF)
+module, and a conversation module to streamline effective drug editing. We
+empirically show that ChatDrug reaches the best performance on 33 out of 39
+drug editing tasks, encompassing small molecules, peptides, and proteins. We
+further demonstrate, through 10 case studies, that ChatDrug can successfully
+identify the key substructures (e.g., the molecule functional groups, peptide
+motifs, and protein structures) for manipulation, generating diverse and valid
+suggestions for drug editing. Promisingly, we also show that ChatDrug can offer
+insightful explanations from a domain-specific perspective, enhancing
+interpretability and enabling informed decision-making. This research sheds
+light on the potential of ChatGPT and conversational LLMs for drug editing. It
+paves the way for a more efficient and collaborative drug discovery pipeline,
+contributing to the advancement of pharmaceutical research and development."
+2312.00189v1,"HeTriNet: Heterogeneous Graph Triplet Attention Network for
+  Drug-Target-Disease Interaction",2023-11-30T20:55:57Z,"Farhan Tanvir, Khaled Mohammed Saifuddin, Tanvir Hossain, Arunkumar Bagavathi, Esra Akbas",http://arxiv.org/abs/2312.00189v1,http://arxiv.org/pdf/2312.00189v1,No journal ref found,"13 pages, 3 figures, 6 tables","Modeling the interactions between drugs, targets, and diseases is paramount
+in drug discovery and has significant implications for precision medicine and
+personalized treatments. Current approaches frequently consider drug-target or
+drug-disease interactions individually, ignoring the interdependencies among
+all three entities. Within human metabolic systems, drugs interact with protein
+targets in cells, influencing target activities and subsequently impacting
+biological pathways to promote healthy functions and treat diseases. Moving
+beyond binary relationships and exploring tighter triple relationships is
+essential to understanding drugs' mechanism of action (MoAs). Moreover,
+identifying the heterogeneity of drugs, targets, and diseases, along with their
+distinct characteristics, is critical to model these complex interactions
+appropriately. To address these challenges, we effectively model the
+interconnectedness of all entities in a heterogeneous graph and develop a novel
+Heterogeneous Graph Triplet Attention Network (\texttt{HeTriNet}).
+\texttt{HeTriNet} introduces a novel triplet attention mechanism within this
+heterogeneous graph structure. Beyond pairwise attention as the importance of
+an entity for the other one, we define triplet attention to model the
+importance of pairs for entities in the drug-target-disease triplet prediction
+problem. Experimental results on real-world datasets show that
+\texttt{HeTriNet} outperforms several baselines, demonstrating its remarkable
+proficiency in uncovering novel drug-target-disease relationships."
+2502.15346v1,"Drug-Target Interaction/Affinity Prediction: Deep Learning Models and
+  Advances Review",2025-02-21T10:00:43Z,"Ali Vefghi, Zahed Rahmati, Mohammad Akbari",http://arxiv.org/abs/2502.15346v1,http://arxiv.org/pdf/2502.15346v1,No journal ref found,"64 pages, 7 figures, 10 tables","Drug discovery remains a slow and expensive process that involves many steps,
+from detecting the target structure to obtaining approval from the Food and
+Drug Administration (FDA), and is often riddled with safety concerns. Accurate
+prediction of how drugs interact with their targets and the development of new
+drugs by using better methods and technologies have immense potential to speed
+up this process, ultimately leading to faster delivery of life-saving
+medications. Traditional methods used for drug-target interaction prediction
+show limitations, particularly in capturing complex relationships between drugs
+and their targets. As an outcome, deep learning models have been presented to
+overcome the challenges of interaction prediction through their precise and
+efficient end results. By outlining promising research avenues and models, each
+with a different solution but similar to the problem, this paper aims to give
+researchers a better idea of methods for even more accurate and efficient
+prediction of drug-target interaction, ultimately accelerating the development
+of more effective drugs. A total of 180 prediction methods for drug-target
+interactions were analyzed throughout the period spanning 2016 to 2025 using
+different frameworks based on machine learning, mainly deep learning and graph
+neural networks. Additionally, this paper discusses the novelty, architecture,
+and input representation of these models."
