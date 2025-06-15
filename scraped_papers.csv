@@ -776,27 +776,6 @@ can help the scientists, pharmacists and biologists to design the rational 3D
 drugs in the receptor pocket through the deep learning model and classical
 programming. MolAICal is free of charge for any academic and educational
 purposes, and it can be downloaded from the website https://molaical.github.io."
-2307.00859v4,"CardiGraphormer: Unveiling the Power of Self-Supervised Learning in
-  Revolutionizing Drug Discovery",2023-07-03T08:58:32Z,Abhijit Gupta,http://arxiv.org/abs/2307.00859v4,http://arxiv.org/pdf/2307.00859v4,No journal ref found,"Disagreement with my PhD supervisor about open sourcing the
-  publication and affiliation","In the expansive realm of drug discovery, with approximately 15,000 known
-drugs and only around 4,200 approved, the combinatorial nature of the chemical
-space presents a formidable challenge. While Artificial Intelligence (AI) has
-emerged as a powerful ally, traditional AI frameworks face significant hurdles.
-This manuscript introduces CardiGraphormer, a groundbreaking approach that
-synergizes self-supervised learning (SSL), Graph Neural Networks (GNNs), and
-Cardinality Preserving Attention to revolutionize drug discovery.
-CardiGraphormer, a novel combination of Graphormer and Cardinality Preserving
-Attention, leverages SSL to learn potent molecular representations and employs
-GNNs to extract molecular fingerprints, enhancing predictive performance and
-interpretability while reducing computation time. It excels in handling complex
-data like molecular structures and performs tasks associated with nodes, pairs
-of nodes, subgraphs, or entire graph structures. CardiGraphormer's potential
-applications in drug discovery and drug interactions are vast, from identifying
-new drug targets to predicting drug-to-drug interactions and enabling novel
-drug discovery. This innovative approach provides an AI-enhanced methodology in
-drug development, utilizing SSL combined with GNNs to overcome existing
-limitations and pave the way for a richer exploration of the vast combinatorial
-chemical space in drug discovery."
 2104.11674v1,"Genetic Constrained Graph Variational Autoencoder for COVID-19 Drug
   Discovery",2021-04-23T16:10:15Z,"Tianyue Cheng, Tianchi Fan, Landi Wang",http://arxiv.org/abs/2104.11674v1,http://arxiv.org/pdf/2104.11674v1,No journal ref found,No comment found,"In the past several months, COVID-19 has spread over the globe and caused
 severe damage to the people and the society. In the context of this severe
