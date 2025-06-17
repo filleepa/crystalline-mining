@@ -11,9 +11,9 @@ base_url = "http://export.arxiv.org/api/query?";
 # search parameters
 search_query = 'all:crystalline+structure+AND+all:drug+manufacturing' # search for crystalline structures and drug manufacturing in all fields
 start = 0                         # start at the first result
-max_results = 100                # want 100 total results
+max_results = 1000                # want 1000 total results
 results_per_iteration = 10        # 10 results at a time
-wait_time = 3                     # number of seconds to wait between calls (to be kind to the API)
+wait_time = 4                     # number of seconds to wait between calls (to be kind to the API)
 
 print("Searching arXiv for %s" % search_query)
 
